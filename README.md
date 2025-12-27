@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Computer science student, always curious and eager to learn new things.<br>🎨 Creative in my free time: I explore, experiment, and build whatever inspires me.<br>🚀 Driven by challenges and always excited to discover new technologies.<br>🤝 Always happy to help — feel free to ask me anything.
+💻<br>🎨<br>👨🏻‍🎓>br🤝
 
 
 # 💻 Tech Stack:

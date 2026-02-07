@@ -9,7 +9,9 @@
     width="10%"
     alt="Image"
   />
+  <br>
   <h3>💻 🎨 👨🏻‍🎓 🤝</h3>
+  <br>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=L-at-nnes.L-at-nnes&"  />
 </div>
 

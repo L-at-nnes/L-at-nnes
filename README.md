@@ -1,7 +1,5 @@
 # 💫 About Me:
 
-### 
-
 <div align="center">
   <h1>French CS Student</h1>
   <img

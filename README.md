@@ -19,6 +19,10 @@
 # 📊 GitHub Stats:
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/l-at-nnes?cardType=level&theme=tokyonight&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 
+<a href="http://www.github.com/l-at-nnes"><img src="https://github-readme-streak-stats.herokuapp.com/?user=l-at-nnes&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://github.com/l-at-nnes" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=l-at-nnes&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
 ---
 
 That's all !

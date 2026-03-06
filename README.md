@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 <div align="center">
-  <h1>French CS Student</h1>
+  <h3>French CS Student</h3>
   <img
     src="https://github.com/user-attachments/assets/d69d6dcb-1c58-415b-a621-d36569dd8a89"
     width="10%"

@@ -18,8 +18,8 @@
 # 📊 GitHub Stats:
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats-six-psi-66.vercel.app/api?username=l-at-nnes&theme=tokyonight&hide_border=true" />
-  <img height="180" src="https://github-readme-stats-six-psi-66.vercel.app/api/top-langs?username=l-at-nnes&layout=compact&langs_count=8&card_width=320&theme=tokyonight&hide_border=true" />
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/L-at-nnes?cardType=level&theme=tokyonight&fontFamily=&preferLogin=false" />
+  <img src="https://github-readme-stats-six-psi-66.vercel.app/api/top-langs?username=l-at-nnes&layout=compact&langs_count=8&card_width=320&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
@@ -27,6 +27,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=l-at-nnes&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
   </a>
 </div>
+
 
 ---
 

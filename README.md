@@ -24,11 +24,11 @@
 
 | Repo | Commit | Date |
 |---|---|---|
+| [L-at-nnes/WC4SaveEditor](https://github.com/L-at-nnes/WC4SaveEditor) | [fix(save): stop creating a .bak backup copy on every save](https://github.com/L-at-nnes/WC4SaveEditor/commit/1f0bcc9e760927633e306782622d06c322286035) | 2026-09-28 |
+| [L-at-nnes/WC4SaveEditor](https://github.com/L-at-nnes/WC4SaveEditor) | [fix(annex): write the game's per-country eliminated flag ...](https://github.com/L-at-nnes/WC4SaveEditor/commit/8c0a1a09c90cdbe0858b798a142db28bd67205ed) | 2026-09-28 |
 | [L-at-nnes/L-at-nnes](https://github.com/L-at-nnes/L-at-nnes) | [Merge branch 'main' of https://github.com/L-at-nnes/L-at-...](https://github.com/L-at-nnes/L-at-nnes/commit/86becd2ae3658a9a6e1c94c1c01fd970ae5cd641) | 2026-09-24 |
 | [L-at-nnes/WC4SaveEditor](https://github.com/L-at-nnes/WC4SaveEditor) | [Merge branch : C# WPF GUI is now the only branch](https://github.com/L-at-nnes/WC4SaveEditor/commit/2b5b3c480b9aa7e3e080c91a7146278424c491a5) | 2026-09-24 |
 | [L-at-nnes/L-at-nnes](https://github.com/L-at-nnes/L-at-nnes) | [feat(readme): add auto-updating table of recent public co...](https://github.com/L-at-nnes/L-at-nnes/commit/61b9d28c65f402e650124670b8e99f8b1cd7cc25) | 2026-09-24 |
-| [L-at-nnes/rutracker-traduction](https://github.com/L-at-nnes/rutracker-traduction) | [feat(userscript): add downloadURL/updateURL for auto-updates](https://github.com/L-at-nnes/rutracker-traduction/commit/8b9f30659ca41576065542332102e3d95be60bc2) | 2026-09-23 |
-| [L-at-nnes/moodle-video-bulk-downloader](https://github.com/L-at-nnes/moodle-video-bulk-downloader) | [merge: reconcile with rewritten origin/main history](https://github.com/L-at-nnes/moodle-video-bulk-downloader/commit/e89ec6cd46749f3da242eccff95d355fcefd3144) | 2026-09-16 |
 
 </div>
 <!-- recent_commits ends -->

@@ -24,34 +24,33 @@ async function fetchJson(url) {
   return res.json();
 }
 
-async function fetchRecentPushes() {
-  const pushes = [];
-  for (let page = 1; page <= 10 && pushes.length < MAX_COMMITS; page++) {
-    const events = await fetchJson(
-      `https://api.github.com/users/${USERNAME}/events/public?per_page=100&page=${page}`
-    );
-    if (events.length === 0) break;
-    pushes.push(...events.filter((event) => event.type === "PushEvent"));
-  }
-  return pushes.slice(0, MAX_COMMITS);
-}
-
-async function main() {
-  const pushes = await fetchRecentPushes();
+async function fetchRecentCommits() {
+  const repos = await fetchJson(
+    `https://api.github.com/users/${USERNAME}/repos?sort=pushed&per_page=${MAX_COMMITS}`
+  );
 
   const commits = await Promise.all(
-    pushes.map(async (event) => {
-      const repo = event.repo.name;
-      const sha = event.payload.head;
-      const commit = await fetchJson(`https://api.github.com/repos/${repo}/commits/${sha}`);
+    repos.map(async (repo) => {
+      const [commit] = await fetchJson(
+        `https://api.github.com/repos/${repo.full_name}/commits?per_page=1`
+      );
       return {
-        repo,
+        repo: repo.full_name,
         message: commit.commit.message.split("\n")[0].trim(),
-        sha,
-        date: event.created_at.slice(0, 10),
+        sha: commit.sha,
+        date: commit.commit.committer.date.slice(0, 10),
+        sortDate: commit.commit.committer.date,
       };
     })
   );
+
+  return commits
+    .sort((a, b) => b.sortDate.localeCompare(a.sortDate))
+    .slice(0, MAX_COMMITS);
+}
+
+async function main() {
+  const commits = await fetchRecentCommits();
 
   const rows = commits.map(({ repo, message, sha, date }) => {
     const shortMessage = message.length > 60 ? `${message.slice(0, 57)}...` : message;

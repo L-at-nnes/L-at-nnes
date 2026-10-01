@@ -24,7 +24,7 @@
 
 | Repo | Commit | Date |
 |---|---|---|
-| [L-at-nnes/L-at-nnes](https://github.com/L-at-nnes/L-at-nnes) | [chore(readme): update recent commits](https://github.com/L-at-nnes/L-at-nnes/commit/3a3000bf8fffdd6ce8fa9a7dadcff11a0004c9f0) | 2026-09-30 |
+| [L-at-nnes/L-at-nnes](https://github.com/L-at-nnes/L-at-nnes) | [chore(readme): update recent commits](https://github.com/L-at-nnes/L-at-nnes/commit/1e919c676a0ee06f17e25f245f87469da42b839f) | 2026-10-01 |
 | [L-at-nnes/ed2k-Manager](https://github.com/L-at-nnes/ed2k-Manager) | [clean : update gitignore](https://github.com/L-at-nnes/ed2k-Manager/commit/a32ae461267d3a2ebbb06f616213aa2be42191d1) | 2026-09-30 |
 | [L-at-nnes/WC4SaveEditor](https://github.com/L-at-nnes/WC4SaveEditor) | [fix(save): stop creating a .bak backup copy on every save](https://github.com/L-at-nnes/WC4SaveEditor/commit/1f0bcc9e760927633e306782622d06c322286035) | 2026-09-28 |
 | [L-at-nnes/rutracker-traduction](https://github.com/L-at-nnes/rutracker-traduction) | [feat(userscript): add downloadURL/updateURL for auto-updates](https://github.com/L-at-nnes/rutracker-traduction/commit/8b9f30659ca41576065542332102e3d95be60bc2) | 2026-09-23 |

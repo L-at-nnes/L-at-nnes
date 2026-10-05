@@ -30,7 +30,7 @@ async function fetchRecentCommits() {
   );
 
   const perRepo = await Promise.all(
-    repos.map(async (repo) => {
+    repos.filter((repo) => repo.full_name !== `${USERNAME}/${USERNAME}`).map(async (repo) => {
       const list = await fetchJson(
         `https://api.github.com/repos/${repo.full_name}/commits?per_page=${MAX_COMMITS}`
       );

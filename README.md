@@ -24,11 +24,16 @@
 
 | Repo | Commit | Date |
 |---|---|---|
+| [L-at-nnes/L-at-nnes](https://github.com/L-at-nnes/L-at-nnes) | [chore(readme): update recent commits](https://github.com/L-at-nnes/L-at-nnes/commit/41ab70ddf246a58b187946c4f597e723b3c14d16) | 2026-10-05 |
 | [L-at-nnes/L-at-nnes](https://github.com/L-at-nnes/L-at-nnes) | [chore(readme): update recent commits](https://github.com/L-at-nnes/L-at-nnes/commit/b7891ffcecab0b6c94e00ef903284aa925232ed5) | 2026-10-05 |
+| [L-at-nnes/L-at-nnes](https://github.com/L-at-nnes/L-at-nnes) | [chore(readme): update recent commits](https://github.com/L-at-nnes/L-at-nnes/commit/60c45382103816f9b0b9fcc10b6339962fd464c6) | 2026-10-04 |
 | [L-at-nnes/ed2k-Manager](https://github.com/L-at-nnes/ed2k-Manager) | [change version number](https://github.com/L-at-nnes/ed2k-Manager/commit/06d0b0ef1fc9fe3cf106b3c546259ce0fa027d8a) | 2026-10-04 |
-| [L-at-nnes/WC4SaveEditor](https://github.com/L-at-nnes/WC4SaveEditor) | [fix(save): stop creating a .bak backup copy on every save](https://github.com/L-at-nnes/WC4SaveEditor/commit/1f0bcc9e760927633e306782622d06c322286035) | 2026-09-28 |
-| [L-at-nnes/rutracker-traduction](https://github.com/L-at-nnes/rutracker-traduction) | [feat(userscript): add downloadURL/updateURL for auto-updates](https://github.com/L-at-nnes/rutracker-traduction/commit/8b9f30659ca41576065542332102e3d95be60bc2) | 2026-09-23 |
-| [L-at-nnes/moodle-video-bulk-downloader](https://github.com/L-at-nnes/moodle-video-bulk-downloader) | [merge: reconcile with rewritten origin/main history](https://github.com/L-at-nnes/moodle-video-bulk-downloader/commit/e89ec6cd46749f3da242eccff95d355fcefd3144) | 2026-09-16 |
+| [L-at-nnes/ed2k-Manager](https://github.com/L-at-nnes/ed2k-Manager) | [fix(ui): make chunk size dropdown options readable](https://github.com/L-at-nnes/ed2k-Manager/commit/795453a01b83b67e5a16e59d49deeba8e25adce5) | 2026-10-04 |
+| [L-at-nnes/ed2k-Manager](https://github.com/L-at-nnes/ed2k-Manager) | [docs(readme): document chunked copy, close-after-copy opt...](https://github.com/L-at-nnes/ed2k-Manager/commit/cea6e2dbc19090427ab4b1694b478f66dc797444) | 2026-10-04 |
+| [L-at-nnes/ed2k-Manager](https://github.com/L-at-nnes/ed2k-Manager) | [feat(picker): add rubber-band drag selection to pick link...](https://github.com/L-at-nnes/ed2k-Manager/commit/c14561470c960ed6a7b4b454a09cae6df24364d2) | 2026-10-04 |
+| [L-at-nnes/ed2k-Manager](https://github.com/L-at-nnes/ed2k-Manager) | [feat(copy): add chunked Copy all with persisted batch size](https://github.com/L-at-nnes/ed2k-Manager/commit/1ea631e5f336efc405c1dc79d7e0ab5b4790b542) | 2026-10-04 |
+| [L-at-nnes/ed2k-Manager](https://github.com/L-at-nnes/ed2k-Manager) | [feat(copy): add persisted option to close the modal after...](https://github.com/L-at-nnes/ed2k-Manager/commit/ea4f365f1cc44d99539619e4f3ceef498467845e) | 2026-10-04 |
+| [L-at-nnes/ed2k-Manager](https://github.com/L-at-nnes/ed2k-Manager) | [fix(rename): tolerate stray edge spaces in text selection...](https://github.com/L-at-nnes/ed2k-Manager/commit/255b6345f1985e4a9b4313878549ca9e61fba601) | 2026-10-04 |
 
 </div>
 <!-- recent_commits ends -->

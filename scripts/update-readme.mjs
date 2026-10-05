@@ -1,7 +1,7 @@
 import { readFile, writeFile } from "node:fs/promises";
 
 const USERNAME = "L-at-nnes";
-const MAX_COMMITS = 5;
+const MAX_COMMITS = 10;
 const START = "<!-- recent_commits starts -->";
 const END = "<!-- recent_commits ends -->";
 
@@ -29,22 +29,23 @@ async function fetchRecentCommits() {
     `https://api.github.com/users/${USERNAME}/repos?sort=pushed&per_page=${MAX_COMMITS}`
   );
 
-  const commits = await Promise.all(
+  const perRepo = await Promise.all(
     repos.map(async (repo) => {
-      const [commit] = await fetchJson(
-        `https://api.github.com/repos/${repo.full_name}/commits?per_page=1`
+      const list = await fetchJson(
+        `https://api.github.com/repos/${repo.full_name}/commits?per_page=${MAX_COMMITS}`
       );
-      return {
+      return list.map((commit) => ({
         repo: repo.full_name,
         message: commit.commit.message.split("\n")[0].trim(),
         sha: commit.sha,
         date: commit.commit.committer.date.slice(0, 10),
         sortDate: commit.commit.committer.date,
-      };
+      }));
     })
   );
 
-  return commits
+  return perRepo
+    .flat()
     .sort((a, b) => b.sortDate.localeCompare(a.sortDate))
     .slice(0, MAX_COMMITS);
 }

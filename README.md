@@ -24,6 +24,8 @@
 
 | Repo | Commit | Date |
 |---|---|---|
+| [L-at-nnes/L-at-nnes](https://github.com/L-at-nnes/L-at-nnes) | [feat(readme): exclude profile repo from recent commits](https://github.com/L-at-nnes/L-at-nnes/commit/f72edc6612c9baae5dc2a7cb4b5dac751e1b6515) | 2026-10-05 |
+| [L-at-nnes/L-at-nnes](https://github.com/L-at-nnes/L-at-nnes) | [feat(readme): list recent commits across all repos instea...](https://github.com/L-at-nnes/L-at-nnes/commit/358ab0a35c852b4f3a65223473803ea8bcb6d39e) | 2026-10-05 |
 | [L-at-nnes/ed2k-Manager](https://github.com/L-at-nnes/ed2k-Manager) | [change version number](https://github.com/L-at-nnes/ed2k-Manager/commit/06d0b0ef1fc9fe3cf106b3c546259ce0fa027d8a) | 2026-10-04 |
 | [L-at-nnes/ed2k-Manager](https://github.com/L-at-nnes/ed2k-Manager) | [fix(ui): make chunk size dropdown options readable](https://github.com/L-at-nnes/ed2k-Manager/commit/795453a01b83b67e5a16e59d49deeba8e25adce5) | 2026-10-04 |
 | [L-at-nnes/ed2k-Manager](https://github.com/L-at-nnes/ed2k-Manager) | [docs(readme): document chunked copy, close-after-copy opt...](https://github.com/L-at-nnes/ed2k-Manager/commit/cea6e2dbc19090427ab4b1694b478f66dc797444) | 2026-10-04 |
@@ -32,8 +34,6 @@
 | [L-at-nnes/ed2k-Manager](https://github.com/L-at-nnes/ed2k-Manager) | [feat(copy): add persisted option to close the modal after...](https://github.com/L-at-nnes/ed2k-Manager/commit/ea4f365f1cc44d99539619e4f3ceef498467845e) | 2026-10-04 |
 | [L-at-nnes/ed2k-Manager](https://github.com/L-at-nnes/ed2k-Manager) | [fix(rename): tolerate stray edge spaces in text selection...](https://github.com/L-at-nnes/ed2k-Manager/commit/255b6345f1985e4a9b4313878549ca9e61fba601) | 2026-10-04 |
 | [L-at-nnes/ed2k-Manager](https://github.com/L-at-nnes/ed2k-Manager) | [fix(modal): keep link list visible at large font sizes an...](https://github.com/L-at-nnes/ed2k-Manager/commit/bd78443d03ef6397eb20b4fa9a99a45e17970d33) | 2026-10-04 |
-| [L-at-nnes/ed2k-Manager](https://github.com/L-at-nnes/ed2k-Manager) | [update gitignore](https://github.com/L-at-nnes/ed2k-Manager/commit/d57422e60242eed3d170ef1fc5d6055f5d450af9) | 2026-10-04 |
-| [L-at-nnes/ed2k-Manager](https://github.com/L-at-nnes/ed2k-Manager) | [clean : update gitignore](https://github.com/L-at-nnes/ed2k-Manager/commit/a32ae461267d3a2ebbb06f616213aa2be42191d1) | 2026-09-30 |
 
 </div>
 <!-- recent_commits ends -->

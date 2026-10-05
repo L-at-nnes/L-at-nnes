@@ -2,6 +2,7 @@ import { readFile, writeFile } from "node:fs/promises";
 
 const USERNAME = "L-at-nnes";
 const MAX_COMMITS = 10;
+const BOT_NAME = "github-actions[bot]";
 const START = "<!-- recent_commits starts -->";
 const END = "<!-- recent_commits ends -->";
 
@@ -30,17 +31,20 @@ async function fetchRecentCommits() {
   );
 
   const perRepo = await Promise.all(
-    repos.filter((repo) => repo.full_name !== `${USERNAME}/${USERNAME}`).map(async (repo) => {
+    repos.map(async (repo) => {
       const list = await fetchJson(
-        `https://api.github.com/repos/${repo.full_name}/commits?per_page=${MAX_COMMITS}`
+        `https://api.github.com/repos/${repo.full_name}/commits?per_page=${MAX_COMMITS * 2}`
       );
-      return list.map((commit) => ({
-        repo: repo.full_name,
-        message: commit.commit.message.split("\n")[0].trim(),
-        sha: commit.sha,
-        date: commit.commit.committer.date.slice(0, 10),
-        sortDate: commit.commit.committer.date,
-      }));
+      return list
+        .filter((commit) => commit.commit.author.name !== BOT_NAME)
+        .slice(0, MAX_COMMITS)
+        .map((commit) => ({
+          repo: repo.full_name,
+          message: commit.commit.message.split("\n")[0].trim(),
+          sha: commit.sha,
+          date: commit.commit.committer.date.slice(0, 10),
+          sortDate: commit.commit.committer.date,
+        }));
     })
   );
 

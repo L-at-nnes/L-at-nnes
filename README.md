@@ -24,6 +24,7 @@
 
 | Repo | Commit | Date |
 |---|---|---|
+| [L-at-nnes/ed2k-Manager](https://github.com/L-at-nnes/ed2k-Manager) | [feat(picker): auto-scroll page while rubber-band dragging...](https://github.com/L-at-nnes/ed2k-Manager/commit/15fc52ae8ad28a453234c4d47a965ae11b1edc35) | 2026-10-07 |
 | [L-at-nnes/rutracker-traduction](https://github.com/L-at-nnes/rutracker-traduction) | [feat(userscript): match viewforum.php pages](https://github.com/L-at-nnes/rutracker-traduction/commit/62c64a1480a4f0c69fc9decd189c87f8d65742b6) | 2026-10-05 |
 | [L-at-nnes/rutracker-traduction](https://github.com/L-at-nnes/rutracker-traduction) | [feat(userscript): match viewforum.php pages to translate ...](https://github.com/L-at-nnes/rutracker-traduction/commit/4a99b65fdf820ebe029302b4d0306e2008675712) | 2026-10-05 |
 | [L-at-nnes/L-at-nnes](https://github.com/L-at-nnes/L-at-nnes) | [fix(readme): exclude github-actions bot commits instead o...](https://github.com/L-at-nnes/L-at-nnes/commit/3aad48554f359d995c6943c3a604a23ce2952b60) | 2026-10-05 |
@@ -33,7 +34,6 @@
 | [L-at-nnes/ed2k-Manager](https://github.com/L-at-nnes/ed2k-Manager) | [fix(ui): make chunk size dropdown options readable](https://github.com/L-at-nnes/ed2k-Manager/commit/795453a01b83b67e5a16e59d49deeba8e25adce5) | 2026-10-04 |
 | [L-at-nnes/ed2k-Manager](https://github.com/L-at-nnes/ed2k-Manager) | [docs(readme): document chunked copy, close-after-copy opt...](https://github.com/L-at-nnes/ed2k-Manager/commit/cea6e2dbc19090427ab4b1694b478f66dc797444) | 2026-10-04 |
 | [L-at-nnes/ed2k-Manager](https://github.com/L-at-nnes/ed2k-Manager) | [feat(picker): add rubber-band drag selection to pick link...](https://github.com/L-at-nnes/ed2k-Manager/commit/c14561470c960ed6a7b4b454a09cae6df24364d2) | 2026-10-04 |
-| [L-at-nnes/ed2k-Manager](https://github.com/L-at-nnes/ed2k-Manager) | [feat(copy): add chunked Copy all with persisted batch size](https://github.com/L-at-nnes/ed2k-Manager/commit/1ea631e5f336efc405c1dc79d7e0ab5b4790b542) | 2026-10-04 |
 
 </div>
 <!-- recent_commits ends -->

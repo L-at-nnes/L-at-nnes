@@ -24,16 +24,16 @@
 
 | Repo | Commit | Date |
 |---|---|---|
-| [L-at-nnes/ed2k-Manager](https://github.com/L-at-nnes/ed2k-Manager) | [feat(picker): auto-scroll page while rubber-band dragging...](https://github.com/L-at-nnes/ed2k-Manager/commit/15fc52ae8ad28a453234c4d47a965ae11b1edc35) | 2026-10-07 |
-| [L-at-nnes/rutracker-traduction](https://github.com/L-at-nnes/rutracker-traduction) | [feat(userscript): match viewforum.php pages](https://github.com/L-at-nnes/rutracker-traduction/commit/62c64a1480a4f0c69fc9decd189c87f8d65742b6) | 2026-10-05 |
-| [L-at-nnes/rutracker-traduction](https://github.com/L-at-nnes/rutracker-traduction) | [feat(userscript): match viewforum.php pages to translate ...](https://github.com/L-at-nnes/rutracker-traduction/commit/4a99b65fdf820ebe029302b4d0306e2008675712) | 2026-10-05 |
-| [L-at-nnes/L-at-nnes](https://github.com/L-at-nnes/L-at-nnes) | [fix(readme): exclude github-actions bot commits instead o...](https://github.com/L-at-nnes/L-at-nnes/commit/3aad48554f359d995c6943c3a604a23ce2952b60) | 2026-10-05 |
-| [L-at-nnes/L-at-nnes](https://github.com/L-at-nnes/L-at-nnes) | [feat(readme): exclude profile repo from recent commits](https://github.com/L-at-nnes/L-at-nnes/commit/f72edc6612c9baae5dc2a7cb4b5dac751e1b6515) | 2026-10-05 |
-| [L-at-nnes/L-at-nnes](https://github.com/L-at-nnes/L-at-nnes) | [feat(readme): list recent commits across all repos instea...](https://github.com/L-at-nnes/L-at-nnes/commit/358ab0a35c852b4f3a65223473803ea8bcb6d39e) | 2026-10-05 |
-| [L-at-nnes/ed2k-Manager](https://github.com/L-at-nnes/ed2k-Manager) | [change version number](https://github.com/L-at-nnes/ed2k-Manager/commit/06d0b0ef1fc9fe3cf106b3c546259ce0fa027d8a) | 2026-10-04 |
-| [L-at-nnes/ed2k-Manager](https://github.com/L-at-nnes/ed2k-Manager) | [fix(ui): make chunk size dropdown options readable](https://github.com/L-at-nnes/ed2k-Manager/commit/795453a01b83b67e5a16e59d49deeba8e25adce5) | 2026-10-04 |
-| [L-at-nnes/ed2k-Manager](https://github.com/L-at-nnes/ed2k-Manager) | [docs(readme): document chunked copy, close-after-copy opt...](https://github.com/L-at-nnes/ed2k-Manager/commit/cea6e2dbc19090427ab4b1694b478f66dc797444) | 2026-10-04 |
-| [L-at-nnes/ed2k-Manager](https://github.com/L-at-nnes/ed2k-Manager) | [feat(picker): add rubber-band drag selection to pick link...](https://github.com/L-at-nnes/ed2k-Manager/commit/c14561470c960ed6a7b4b454a09cae6df24364d2) | 2026-10-04 |
+| [L-at-nnes/ScriptForge](https://github.com/L-at-nnes/ScriptForge) | [chore: bump version to 1.1.0](https://github.com/L-at-nnes/ScriptForge/commit/430b4f4a8203daedb60ff8b1cd48d5be167f41cb) | 2026-10-09 |
+| [L-at-nnes/ScriptForge](https://github.com/L-at-nnes/ScriptForge) | [fix(gui): build off the UI thread](https://github.com/L-at-nnes/ScriptForge/commit/e1c38ff56bd76d81d8c932ea9673be38919c2169) | 2026-10-09 |
+| [L-at-nnes/ScriptForge](https://github.com/L-at-nnes/ScriptForge) | [fix(core): append .exe to output path when missing](https://github.com/L-at-nnes/ScriptForge/commit/055b4d546df3d8a99a8ccc8f23bf81b0fa5e6c59) | 2026-10-09 |
+| [L-at-nnes/ScriptForge](https://github.com/L-at-nnes/ScriptForge) | [fix(core): match bin/obj exclusion on whole path segment ...](https://github.com/L-at-nnes/ScriptForge/commit/0faab1821541292ea02fc4b12ceee961b1709b25) | 2026-10-09 |
+| [L-at-nnes/ScriptForge](https://github.com/L-at-nnes/ScriptForge) | [fix(launcher): quote cmd special characters and embedded ...](https://github.com/L-at-nnes/ScriptForge/commit/c9e9981dc6908d83bd2a7f3413d9745d90288bb0) | 2026-10-09 |
+| [L-at-nnes/ScriptForge](https://github.com/L-at-nnes/ScriptForge) | [docs(readme): document --pause option](https://github.com/L-at-nnes/ScriptForge/commit/d2b5a7f063f4a4edbf97025392ea6493b7212d36) | 2026-10-09 |
+| [L-at-nnes/ScriptForge](https://github.com/L-at-nnes/ScriptForge) | [fix(cli): report missing option values instead of crashing](https://github.com/L-at-nnes/ScriptForge/commit/21d67b75177ef80ed452b17ce390e2389ada51b0) | 2026-10-09 |
+| [L-at-nnes/ScriptForge](https://github.com/L-at-nnes/ScriptForge) | [fix(launcher): clean up and report errors when payload ex...](https://github.com/L-at-nnes/ScriptForge/commit/8b267db6afc271ccd7c1da333ec447ebee4faa7c) | 2026-10-09 |
+| [L-at-nnes/ScriptForge](https://github.com/L-at-nnes/ScriptForge) | [fix(launcher): disable culture detection on embedded scri...](https://github.com/L-at-nnes/ScriptForge/commit/f246591c348b33eb66f9389448e3ce33f8b32600) | 2026-10-09 |
+| [L-at-nnes/ScriptForge](https://github.com/L-at-nnes/ScriptForge) | [fix(core): validate version components instead of failing...](https://github.com/L-at-nnes/ScriptForge/commit/6572d83e898eb57b0a897f36ef7f0b7ff9b646ad) | 2026-10-09 |
 
 </div>
 <!-- recent_commits ends -->

@@ -24,16 +24,16 @@
 
 | Repo | Commit | Date |
 |---|---|---|
-| [L-at-nnes/ScriptForge](https://github.com/L-at-nnes/ScriptForge) | [chore: bump version to 1.1.0](https://github.com/L-at-nnes/ScriptForge/commit/430b4f4a8203daedb60ff8b1cd48d5be167f41cb) | 2026-10-09 |
-| [L-at-nnes/ScriptForge](https://github.com/L-at-nnes/ScriptForge) | [fix(gui): build off the UI thread](https://github.com/L-at-nnes/ScriptForge/commit/e1c38ff56bd76d81d8c932ea9673be38919c2169) | 2026-10-09 |
-| [L-at-nnes/ScriptForge](https://github.com/L-at-nnes/ScriptForge) | [fix(core): append .exe to output path when missing](https://github.com/L-at-nnes/ScriptForge/commit/055b4d546df3d8a99a8ccc8f23bf81b0fa5e6c59) | 2026-10-09 |
-| [L-at-nnes/ScriptForge](https://github.com/L-at-nnes/ScriptForge) | [fix(core): match bin/obj exclusion on whole path segment ...](https://github.com/L-at-nnes/ScriptForge/commit/0faab1821541292ea02fc4b12ceee961b1709b25) | 2026-10-09 |
-| [L-at-nnes/ScriptForge](https://github.com/L-at-nnes/ScriptForge) | [fix(launcher): quote cmd special characters and embedded ...](https://github.com/L-at-nnes/ScriptForge/commit/c9e9981dc6908d83bd2a7f3413d9745d90288bb0) | 2026-10-09 |
-| [L-at-nnes/ScriptForge](https://github.com/L-at-nnes/ScriptForge) | [docs(readme): document --pause option](https://github.com/L-at-nnes/ScriptForge/commit/d2b5a7f063f4a4edbf97025392ea6493b7212d36) | 2026-10-09 |
-| [L-at-nnes/ScriptForge](https://github.com/L-at-nnes/ScriptForge) | [fix(cli): report missing option values instead of crashing](https://github.com/L-at-nnes/ScriptForge/commit/21d67b75177ef80ed452b17ce390e2389ada51b0) | 2026-10-09 |
-| [L-at-nnes/ScriptForge](https://github.com/L-at-nnes/ScriptForge) | [fix(launcher): clean up and report errors when payload ex...](https://github.com/L-at-nnes/ScriptForge/commit/8b267db6afc271ccd7c1da333ec447ebee4faa7c) | 2026-10-09 |
-| [L-at-nnes/ScriptForge](https://github.com/L-at-nnes/ScriptForge) | [fix(launcher): disable culture detection on embedded scri...](https://github.com/L-at-nnes/ScriptForge/commit/f246591c348b33eb66f9389448e3ce33f8b32600) | 2026-10-09 |
-| [L-at-nnes/ScriptForge](https://github.com/L-at-nnes/ScriptForge) | [fix(core): validate version components instead of failing...](https://github.com/L-at-nnes/ScriptForge/commit/6572d83e898eb57b0a897f36ef7f0b7ff9b646ad) | 2026-10-09 |
+| [L-at-nnes/EquaSolver](https://github.com/L-at-nnes/EquaSolver) | [style: center the tab chips](https://github.com/L-at-nnes/EquaSolver/commit/e5fa69a5a74df7eddb67386cee1bf059278b71f4) | 2026-10-10 |
+| [L-at-nnes/EquaSolver](https://github.com/L-at-nnes/EquaSolver) | [style: wrap tool tabs into chip rows instead of a scrolli...](https://github.com/L-at-nnes/EquaSolver/commit/cd0f693afdef95fa4dc35dcfa18af663dafb46c5) | 2026-10-10 |
+| [L-at-nnes/EquaSolver](https://github.com/L-at-nnes/EquaSolver) | [fix(ui): tab row edge fades, wheel scrolling and active t...](https://github.com/L-at-nnes/EquaSolver/commit/22ca35239151c3c8a6e35d9fefe95c26a5ae83b4) | 2026-10-10 |
+| [L-at-nnes/EquaSolver](https://github.com/L-at-nnes/EquaSolver) | [style: staged results and display headings](https://github.com/L-at-nnes/EquaSolver/commit/fac870a471d9de90b9ea993b398e80fd8064c44c) | 2026-10-10 |
+| [L-at-nnes/EquaSolver](https://github.com/L-at-nnes/EquaSolver) | [style: keypad edge, tab ink bar, fluid display](https://github.com/L-at-nnes/EquaSolver/commit/3db50b8a11faca8269f5ff27ddc6bd20a543f388) | 2026-10-10 |
+| [L-at-nnes/EquaSolver](https://github.com/L-at-nnes/EquaSolver) | [feat: view transitions between screens and tabs, pointer ...](https://github.com/L-at-nnes/EquaSolver/commit/d99e5db5ab6098a6f751966976131845c979753d) | 2026-10-10 |
+| [L-at-nnes/EquaSolver](https://github.com/L-at-nnes/EquaSolver) | [style: hero plot and container-aware tiles](https://github.com/L-at-nnes/EquaSolver/commit/a42b965aaf79e1f524376aff01dcf9e86f0540ef) | 2026-10-10 |
+| [L-at-nnes/EquaSolver](https://github.com/L-at-nnes/EquaSolver) | [style: cascade layers, registered colors and a paper/ink ...](https://github.com/L-at-nnes/EquaSolver/commit/931c7c2f54508b27eda253d59053df406d06cb31) | 2026-10-10 |
+| [L-at-nnes/EquaSolver](https://github.com/L-at-nnes/EquaSolver) | [docs: add design notes](https://github.com/L-at-nnes/EquaSolver/commit/b6f441fc28838820c2155a57c7cad45babb25ea7) | 2026-10-10 |
+| [L-at-nnes/EquaSolver](https://github.com/L-at-nnes/EquaSolver) | [style: switch to the split stylesheets and retire the leg...](https://github.com/L-at-nnes/EquaSolver/commit/0bf70fc6200496a69adf3bb3bd396ce3cff80145) | 2026-10-10 |
 
 </div>
 <!-- recent_commits ends -->

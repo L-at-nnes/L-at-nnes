@@ -24,16 +24,16 @@
 
 | Repo | Commit | Date |
 |---|---|---|
-| [L-at-nnes/EquaSolver](https://github.com/L-at-nnes/EquaSolver) | [style: center the tab chips](https://github.com/L-at-nnes/EquaSolver/commit/e5fa69a5a74df7eddb67386cee1bf059278b71f4) | 2026-10-10 |
-| [L-at-nnes/EquaSolver](https://github.com/L-at-nnes/EquaSolver) | [style: wrap tool tabs into chip rows instead of a scrolli...](https://github.com/L-at-nnes/EquaSolver/commit/cd0f693afdef95fa4dc35dcfa18af663dafb46c5) | 2026-10-10 |
-| [L-at-nnes/EquaSolver](https://github.com/L-at-nnes/EquaSolver) | [fix(ui): tab row edge fades, wheel scrolling and active t...](https://github.com/L-at-nnes/EquaSolver/commit/22ca35239151c3c8a6e35d9fefe95c26a5ae83b4) | 2026-10-10 |
-| [L-at-nnes/EquaSolver](https://github.com/L-at-nnes/EquaSolver) | [style: staged results and display headings](https://github.com/L-at-nnes/EquaSolver/commit/fac870a471d9de90b9ea993b398e80fd8064c44c) | 2026-10-10 |
-| [L-at-nnes/EquaSolver](https://github.com/L-at-nnes/EquaSolver) | [style: keypad edge, tab ink bar, fluid display](https://github.com/L-at-nnes/EquaSolver/commit/3db50b8a11faca8269f5ff27ddc6bd20a543f388) | 2026-10-10 |
-| [L-at-nnes/EquaSolver](https://github.com/L-at-nnes/EquaSolver) | [feat: view transitions between screens and tabs, pointer ...](https://github.com/L-at-nnes/EquaSolver/commit/d99e5db5ab6098a6f751966976131845c979753d) | 2026-10-10 |
-| [L-at-nnes/EquaSolver](https://github.com/L-at-nnes/EquaSolver) | [style: hero plot and container-aware tiles](https://github.com/L-at-nnes/EquaSolver/commit/a42b965aaf79e1f524376aff01dcf9e86f0540ef) | 2026-10-10 |
-| [L-at-nnes/EquaSolver](https://github.com/L-at-nnes/EquaSolver) | [style: cascade layers, registered colors and a paper/ink ...](https://github.com/L-at-nnes/EquaSolver/commit/931c7c2f54508b27eda253d59053df406d06cb31) | 2026-10-10 |
-| [L-at-nnes/EquaSolver](https://github.com/L-at-nnes/EquaSolver) | [docs: add design notes](https://github.com/L-at-nnes/EquaSolver/commit/b6f441fc28838820c2155a57c7cad45babb25ea7) | 2026-10-10 |
-| [L-at-nnes/EquaSolver](https://github.com/L-at-nnes/EquaSolver) | [style: switch to the split stylesheets and retire the leg...](https://github.com/L-at-nnes/EquaSolver/commit/0bf70fc6200496a69adf3bb3bd396ce3cff80145) | 2026-10-10 |
+| [L-at-nnes/OpenScissors](https://github.com/L-at-nnes/OpenScissors) | [v1 : first stable release](https://github.com/L-at-nnes/OpenScissors/commit/d73641aa5cd011778a64bf008d91bb7887a439fb) | 2026-10-11 |
+| [L-at-nnes/EquaSolver](https://github.com/L-at-nnes/EquaSolver) | [docs: remove old TODO.md](https://github.com/L-at-nnes/EquaSolver/commit/337b50763130f56bed2c3b623fdfa41326061476) | 2026-10-11 |
+| [L-at-nnes/EquaSolver](https://github.com/L-at-nnes/EquaSolver) | [feat: keyboard shortcuts help dialog](https://github.com/L-at-nnes/EquaSolver/commit/5767bf035ea39274c35ea2eced3659aeec8e5403) | 2026-10-11 |
+| [L-at-nnes/EquaSolver](https://github.com/L-at-nnes/EquaSolver) | [feat: numeric root finder with iteration table](https://github.com/L-at-nnes/EquaSolver/commit/e597aaa1b5a977a3cb32dda3d309aa525a7d7e58) | 2026-10-11 |
+| [L-at-nnes/EquaSolver](https://github.com/L-at-nnes/EquaSolver) | [feat: normal, binomial and poisson distributions](https://github.com/L-at-nnes/EquaSolver/commit/b14a1f586c00f8b4c019376448818b9b1fee145d) | 2026-10-11 |
+| [L-at-nnes/EquaSolver](https://github.com/L-at-nnes/EquaSolver) | [feat: geometry calculator for common shapes](https://github.com/L-at-nnes/EquaSolver/commit/b8e147572e377a6c878a505a9658825f1cca8edd) | 2026-10-11 |
+| [L-at-nnes/EquaSolver](https://github.com/L-at-nnes/EquaSolver) | [feat: vector calculator](https://github.com/L-at-nnes/EquaSolver/commit/ede61fa26c8c583914db8abee27dc4614867155c) | 2026-10-11 |
+| [L-at-nnes/EquaSolver](https://github.com/L-at-nnes/EquaSolver) | [feat: complex number calculator](https://github.com/L-at-nnes/EquaSolver/commit/12fdf5032130746e94663912d2968391bb9363bc) | 2026-10-11 |
+| [L-at-nnes/EquaSolver](https://github.com/L-at-nnes/EquaSolver) | [docs: add TODO for the next feature round](https://github.com/L-at-nnes/EquaSolver/commit/4a2c59f0462e4c5e4889f706baff208ce7808530) | 2026-10-11 |
+| [L-at-nnes/EquaSolver](https://github.com/L-at-nnes/EquaSolver) | [docs: remove old TODO.md](https://github.com/L-at-nnes/EquaSolver/commit/5d701591736a804d8530897ba609587a693a6f32) | 2026-10-11 |
 
 </div>
 <!-- recent_commits ends -->

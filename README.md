@@ -24,16 +24,16 @@
 
 | Repo | Commit | Date |
 |---|---|---|
-| [L-at-nnes/OpenScissors](https://github.com/L-at-nnes/OpenScissors) | [v1 : first stable release](https://github.com/L-at-nnes/OpenScissors/commit/d73641aa5cd011778a64bf008d91bb7887a439fb) | 2026-10-11 |
-| [L-at-nnes/EquaSolver](https://github.com/L-at-nnes/EquaSolver) | [docs: remove old TODO.md](https://github.com/L-at-nnes/EquaSolver/commit/337b50763130f56bed2c3b623fdfa41326061476) | 2026-10-11 |
-| [L-at-nnes/EquaSolver](https://github.com/L-at-nnes/EquaSolver) | [feat: keyboard shortcuts help dialog](https://github.com/L-at-nnes/EquaSolver/commit/5767bf035ea39274c35ea2eced3659aeec8e5403) | 2026-10-11 |
-| [L-at-nnes/EquaSolver](https://github.com/L-at-nnes/EquaSolver) | [feat: numeric root finder with iteration table](https://github.com/L-at-nnes/EquaSolver/commit/e597aaa1b5a977a3cb32dda3d309aa525a7d7e58) | 2026-10-11 |
-| [L-at-nnes/EquaSolver](https://github.com/L-at-nnes/EquaSolver) | [feat: normal, binomial and poisson distributions](https://github.com/L-at-nnes/EquaSolver/commit/b14a1f586c00f8b4c019376448818b9b1fee145d) | 2026-10-11 |
-| [L-at-nnes/EquaSolver](https://github.com/L-at-nnes/EquaSolver) | [feat: geometry calculator for common shapes](https://github.com/L-at-nnes/EquaSolver/commit/b8e147572e377a6c878a505a9658825f1cca8edd) | 2026-10-11 |
-| [L-at-nnes/EquaSolver](https://github.com/L-at-nnes/EquaSolver) | [feat: vector calculator](https://github.com/L-at-nnes/EquaSolver/commit/ede61fa26c8c583914db8abee27dc4614867155c) | 2026-10-11 |
-| [L-at-nnes/EquaSolver](https://github.com/L-at-nnes/EquaSolver) | [feat: complex number calculator](https://github.com/L-at-nnes/EquaSolver/commit/12fdf5032130746e94663912d2968391bb9363bc) | 2026-10-11 |
-| [L-at-nnes/EquaSolver](https://github.com/L-at-nnes/EquaSolver) | [docs: add TODO for the next feature round](https://github.com/L-at-nnes/EquaSolver/commit/4a2c59f0462e4c5e4889f706baff208ce7808530) | 2026-10-11 |
-| [L-at-nnes/EquaSolver](https://github.com/L-at-nnes/EquaSolver) | [docs: remove old TODO.md](https://github.com/L-at-nnes/EquaSolver/commit/5d701591736a804d8530897ba609587a693a6f32) | 2026-10-11 |
+| [L-at-nnes/OpenScissors](https://github.com/L-at-nnes/OpenScissors) | [chore(release): bump version to 1.2.0](https://github.com/L-at-nnes/OpenScissors/commit/44b5daec2f17f5338887a96d698e0c0324902dbf) | 2026-10-12 |
+| [L-at-nnes/OpenScissors](https://github.com/L-at-nnes/OpenScissors) | [fix(sysmem): measure memory on macOS so the budget and th...](https://github.com/L-at-nnes/OpenScissors/commit/d912919efb7dff0861043f45a6d3dd9e6bfa1e96) | 2026-10-12 |
+| [L-at-nnes/OpenScissors](https://github.com/L-at-nnes/OpenScissors) | [docs(readme): describe the edge clean-up, presets and the...](https://github.com/L-at-nnes/OpenScissors/commit/548f867486f4a4c5cf889ce9fc64ba4fa4556d8e) | 2026-10-12 |
+| [L-at-nnes/OpenScissors](https://github.com/L-at-nnes/OpenScissors) | [feat(batch): add WebP to the batch result formats](https://github.com/L-at-nnes/OpenScissors/commit/b090155507faaa0a1094299b76f14d6882756582) | 2026-10-12 |
+| [L-at-nnes/OpenScissors](https://github.com/L-at-nnes/OpenScissors) | [feat(batch): open the batch panel when a folder is droppe...](https://github.com/L-at-nnes/OpenScissors/commit/151342881c2143b6442136ce98c8df4cb88adc02) | 2026-10-12 |
+| [L-at-nnes/OpenScissors](https://github.com/L-at-nnes/OpenScissors) | [feat(batch): choose between the saved defaults and the se...](https://github.com/L-at-nnes/OpenScissors/commit/d3aa51e7932d8175830e9c71448a692055670014) | 2026-10-12 |
+| [L-at-nnes/OpenScissors](https://github.com/L-at-nnes/OpenScissors) | [feat(export): add output width and ready-made presets for...](https://github.com/L-at-nnes/OpenScissors/commit/2d3acfeaf108e881ab4dd4fe9f2d784276419a58) | 2026-10-12 |
+| [L-at-nnes/OpenScissors](https://github.com/L-at-nnes/OpenScissors) | [fix(crop): keep the requested aspect ratio when fit to re...](https://github.com/L-at-nnes/OpenScissors/commit/2b76db76b921f45770e3adc5cd1e5e4c13cbd206) | 2026-10-12 |
+| [L-at-nnes/OpenScissors](https://github.com/L-at-nnes/OpenScissors) | [feat(render): add edge clean-up that removes the old back...](https://github.com/L-at-nnes/OpenScissors/commit/cc08243ef2f71f1ec7553aef113c7141e68afb63) | 2026-10-11 |
+| [L-at-nnes/OpenScissors](https://github.com/L-at-nnes/OpenScissors) | [ci(release): build and publish portable archives for wind...](https://github.com/L-at-nnes/OpenScissors/commit/6dd159882d25efb7735e059616d0da8155d726c8) | 2026-10-11 |
 
 </div>
 <!-- recent_commits ends -->

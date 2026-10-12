@@ -24,16 +24,16 @@
 
 | Repo | Commit | Date |
 |---|---|---|
-| [L-at-nnes/OpenScissors](https://github.com/L-at-nnes/OpenScissors) | [chore(release): bump version to 1.2.0](https://github.com/L-at-nnes/OpenScissors/commit/44b5daec2f17f5338887a96d698e0c0324902dbf) | 2026-10-12 |
-| [L-at-nnes/OpenScissors](https://github.com/L-at-nnes/OpenScissors) | [fix(sysmem): measure memory on macOS so the budget and th...](https://github.com/L-at-nnes/OpenScissors/commit/d912919efb7dff0861043f45a6d3dd9e6bfa1e96) | 2026-10-12 |
-| [L-at-nnes/OpenScissors](https://github.com/L-at-nnes/OpenScissors) | [docs(readme): describe the edge clean-up, presets and the...](https://github.com/L-at-nnes/OpenScissors/commit/548f867486f4a4c5cf889ce9fc64ba4fa4556d8e) | 2026-10-12 |
-| [L-at-nnes/OpenScissors](https://github.com/L-at-nnes/OpenScissors) | [feat(batch): add WebP to the batch result formats](https://github.com/L-at-nnes/OpenScissors/commit/b090155507faaa0a1094299b76f14d6882756582) | 2026-10-12 |
-| [L-at-nnes/OpenScissors](https://github.com/L-at-nnes/OpenScissors) | [feat(batch): open the batch panel when a folder is droppe...](https://github.com/L-at-nnes/OpenScissors/commit/151342881c2143b6442136ce98c8df4cb88adc02) | 2026-10-12 |
-| [L-at-nnes/OpenScissors](https://github.com/L-at-nnes/OpenScissors) | [feat(batch): choose between the saved defaults and the se...](https://github.com/L-at-nnes/OpenScissors/commit/d3aa51e7932d8175830e9c71448a692055670014) | 2026-10-12 |
-| [L-at-nnes/OpenScissors](https://github.com/L-at-nnes/OpenScissors) | [feat(export): add output width and ready-made presets for...](https://github.com/L-at-nnes/OpenScissors/commit/2d3acfeaf108e881ab4dd4fe9f2d784276419a58) | 2026-10-12 |
-| [L-at-nnes/OpenScissors](https://github.com/L-at-nnes/OpenScissors) | [fix(crop): keep the requested aspect ratio when fit to re...](https://github.com/L-at-nnes/OpenScissors/commit/2b76db76b921f45770e3adc5cd1e5e4c13cbd206) | 2026-10-12 |
-| [L-at-nnes/OpenScissors](https://github.com/L-at-nnes/OpenScissors) | [feat(render): add edge clean-up that removes the old back...](https://github.com/L-at-nnes/OpenScissors/commit/cc08243ef2f71f1ec7553aef113c7141e68afb63) | 2026-10-11 |
-| [L-at-nnes/OpenScissors](https://github.com/L-at-nnes/OpenScissors) | [ci(release): build and publish portable archives for wind...](https://github.com/L-at-nnes/OpenScissors/commit/6dd159882d25efb7735e059616d0da8155d726c8) | 2026-10-11 |
+| [L-at-nnes/OpenScissors](https://github.com/L-at-nnes/OpenScissors) | [chore(release): bump version to 1.3.0](https://github.com/L-at-nnes/OpenScissors/commit/2ae34c05e3f31eac5b1c782eb1920f9a68e3d84f) | 2026-10-12 |
+| [L-at-nnes/OpenScissors](https://github.com/L-at-nnes/OpenScissors) | [fix(io): judge a picture by the memory budget instead of ...](https://github.com/L-at-nnes/OpenScissors/commit/c8d0e4090abafd8a01527756cf74642fcc7fa09d) | 2026-10-12 |
+| [L-at-nnes/OpenScissors](https://github.com/L-at-nnes/OpenScissors) | [docs: describe the shadow offset, colour adjustments, cli...](https://github.com/L-at-nnes/OpenScissors/commit/2bffca74a5991503c8f56f38bb4fbdd56d94d13d) | 2026-10-12 |
+| [L-at-nnes/OpenScissors](https://github.com/L-at-nnes/OpenScissors) | [test(selftest): add a popover step to the scripted scenarios](https://github.com/L-at-nnes/OpenScissors/commit/388de50e131a42a7bcc0611b2bed7bdf676b7f82) | 2026-10-12 |
+| [L-at-nnes/OpenScissors](https://github.com/L-at-nnes/OpenScissors) | [fix(document): cap the undo history by memory and forget ...](https://github.com/L-at-nnes/OpenScissors/commit/43188af7445ed5ffa8d21de2db085e65bd794a45) | 2026-10-12 |
+| [L-at-nnes/OpenScissors](https://github.com/L-at-nnes/OpenScissors) | [fix(models): give downloads connect and response timeouts...](https://github.com/L-at-nnes/OpenScissors/commit/500b18f3ee88fc04de6f9fda2698311296963966) | 2026-10-12 |
+| [L-at-nnes/OpenScissors](https://github.com/L-at-nnes/OpenScissors) | [fix(io): refuse pictures over 100 megapixels before decod...](https://github.com/L-at-nnes/OpenScissors/commit/30cd3a819656fe067b853317282a54d435bf5c69) | 2026-10-12 |
+| [L-at-nnes/OpenScissors](https://github.com/L-at-nnes/OpenScissors) | [feat(clipboard): paste an image with Ctrl+V and copy the ...](https://github.com/L-at-nnes/OpenScissors/commit/5513ddb405f50d48df19ab0fa7dba149d757050a) | 2026-10-12 |
+| [L-at-nnes/OpenScissors](https://github.com/L-at-nnes/OpenScissors) | [feat(foreground): add brightness, saturation and warmth a...](https://github.com/L-at-nnes/OpenScissors/commit/273b3c2100b0b06b86684b504881feb3b75825f3) | 2026-10-12 |
+| [L-at-nnes/OpenScissors](https://github.com/L-at-nnes/OpenScissors) | [feat(shadow): add a right and down offset to the shadow a...](https://github.com/L-at-nnes/OpenScissors/commit/9af9c9882cf4eb9693f32c5c2227b007d406b809) | 2026-10-12 |
 
 </div>
 <!-- recent_commits ends -->

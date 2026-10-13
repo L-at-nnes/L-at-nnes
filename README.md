@@ -24,16 +24,16 @@
 
 | Repo | Commit | Date |
 |---|---|---|
+| [L-at-nnes/ed2k-Manager](https://github.com/L-at-nnes/ed2k-Manager) | [fix(ui): preserve whitespace in link names so selection m...](https://github.com/L-at-nnes/ed2k-Manager/commit/e6bb39e106df3b01c6fed096bfb49949f2e6bb44) | 2026-10-13 |
+| [L-at-nnes/FolderHighlight](https://github.com/L-at-nnes/FolderHighlight) | [chore(repo): ignore dist folder](https://github.com/L-at-nnes/FolderHighlight/commit/91b02a463f9943a05d886f8ac21159e15042922c) | 2026-10-13 |
+| [L-at-nnes/FolderHighlight](https://github.com/L-at-nnes/FolderHighlight) | [ci(release): publish a rolling latest pre-release on ever...](https://github.com/L-at-nnes/FolderHighlight/commit/a795848ddca3beca3be357fddc6db261e98f74fc) | 2026-10-13 |
+| [L-at-nnes/FolderHighlight](https://github.com/L-at-nnes/FolderHighlight) | [v1 : First stable public release](https://github.com/L-at-nnes/FolderHighlight/commit/cd8ea9031dd54fe1948bec12f25767d4fa6985e8) | 2026-10-13 |
 | [L-at-nnes/qobuzdlx.web](https://github.com/L-at-nnes/qobuzdlx.web) | [docs: show the status of the image build](https://github.com/L-at-nnes/qobuzdlx.web/commit/dcdc759b76fbf82cdf1a76b463864d8812f72eb9) | 2026-10-12 |
 | [L-at-nnes/qobuzdlx.web](https://github.com/L-at-nnes/qobuzdlx.web) | [docs: install from the published image and explain updates](https://github.com/L-at-nnes/qobuzdlx.web/commit/eb25613b0eab0c7df399c9129f281ded12709211) | 2026-10-12 |
 | [L-at-nnes/qobuzdlx.web](https://github.com/L-at-nnes/qobuzdlx.web) | [feat: let docker compose run the published image or build it](https://github.com/L-at-nnes/qobuzdlx.web/commit/6e648e7e2a140b5e219ae829935c03a513424a01) | 2026-10-12 |
 | [L-at-nnes/qobuzdlx.web](https://github.com/L-at-nnes/qobuzdlx.web) | [ci: build the docker image for x86 and arm and publish it...](https://github.com/L-at-nnes/qobuzdlx.web/commit/3a746adc790a5c9dd7e59024d225e791b035a07e) | 2026-10-12 |
 | [L-at-nnes/qobuzdlx.web](https://github.com/L-at-nnes/qobuzdlx.web) | [chore(docker): label the image with its source repository](https://github.com/L-at-nnes/qobuzdlx.web/commit/9190df325d0a4a8ab5dfefaa7611958e20508f11) | 2026-10-12 |
 | [L-at-nnes/OpenScissors](https://github.com/L-at-nnes/OpenScissors) | [chore(release): bump version to 1.3.0](https://github.com/L-at-nnes/OpenScissors/commit/2ae34c05e3f31eac5b1c782eb1920f9a68e3d84f) | 2026-10-12 |
-| [L-at-nnes/OpenScissors](https://github.com/L-at-nnes/OpenScissors) | [fix(io): judge a picture by the memory budget instead of ...](https://github.com/L-at-nnes/OpenScissors/commit/c8d0e4090abafd8a01527756cf74642fcc7fa09d) | 2026-10-12 |
-| [L-at-nnes/OpenScissors](https://github.com/L-at-nnes/OpenScissors) | [docs: describe the shadow offset, colour adjustments, cli...](https://github.com/L-at-nnes/OpenScissors/commit/2bffca74a5991503c8f56f38bb4fbdd56d94d13d) | 2026-10-12 |
-| [L-at-nnes/OpenScissors](https://github.com/L-at-nnes/OpenScissors) | [test(selftest): add a popover step to the scripted scenarios](https://github.com/L-at-nnes/OpenScissors/commit/388de50e131a42a7bcc0611b2bed7bdf676b7f82) | 2026-10-12 |
-| [L-at-nnes/OpenScissors](https://github.com/L-at-nnes/OpenScissors) | [fix(document): cap the undo history by memory and forget ...](https://github.com/L-at-nnes/OpenScissors/commit/43188af7445ed5ffa8d21de2db085e65bd794a45) | 2026-10-12 |
 
 </div>
 <!-- recent_commits ends -->

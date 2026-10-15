@@ -24,16 +24,16 @@
 
 | Repo | Commit | Date |
 |---|---|---|
-| [L-at-nnes/ed2k-Manager](https://github.com/L-at-nnes/ed2k-Manager) | [fix(ui): preserve whitespace in link names so selection m...](https://github.com/L-at-nnes/ed2k-Manager/commit/e6bb39e106df3b01c6fed096bfb49949f2e6bb44) | 2026-10-13 |
-| [L-at-nnes/FolderHighlight](https://github.com/L-at-nnes/FolderHighlight) | [chore(repo): ignore dist folder](https://github.com/L-at-nnes/FolderHighlight/commit/91b02a463f9943a05d886f8ac21159e15042922c) | 2026-10-13 |
-| [L-at-nnes/FolderHighlight](https://github.com/L-at-nnes/FolderHighlight) | [ci(release): publish a rolling latest pre-release on ever...](https://github.com/L-at-nnes/FolderHighlight/commit/a795848ddca3beca3be357fddc6db261e98f74fc) | 2026-10-13 |
-| [L-at-nnes/FolderHighlight](https://github.com/L-at-nnes/FolderHighlight) | [v1 : First stable public release](https://github.com/L-at-nnes/FolderHighlight/commit/cd8ea9031dd54fe1948bec12f25767d4fa6985e8) | 2026-10-13 |
-| [L-at-nnes/OpenScissors](https://github.com/L-at-nnes/OpenScissors) | [chore(release): bump version to 1.3.0](https://github.com/L-at-nnes/OpenScissors/commit/2ae34c05e3f31eac5b1c782eb1920f9a68e3d84f) | 2026-10-12 |
-| [L-at-nnes/OpenScissors](https://github.com/L-at-nnes/OpenScissors) | [fix(io): judge a picture by the memory budget instead of ...](https://github.com/L-at-nnes/OpenScissors/commit/c8d0e4090abafd8a01527756cf74642fcc7fa09d) | 2026-10-12 |
-| [L-at-nnes/OpenScissors](https://github.com/L-at-nnes/OpenScissors) | [docs: describe the shadow offset, colour adjustments, cli...](https://github.com/L-at-nnes/OpenScissors/commit/2bffca74a5991503c8f56f38bb4fbdd56d94d13d) | 2026-10-12 |
-| [L-at-nnes/OpenScissors](https://github.com/L-at-nnes/OpenScissors) | [test(selftest): add a popover step to the scripted scenarios](https://github.com/L-at-nnes/OpenScissors/commit/388de50e131a42a7bcc0611b2bed7bdf676b7f82) | 2026-10-12 |
-| [L-at-nnes/OpenScissors](https://github.com/L-at-nnes/OpenScissors) | [fix(document): cap the undo history by memory and forget ...](https://github.com/L-at-nnes/OpenScissors/commit/43188af7445ed5ffa8d21de2db085e65bd794a45) | 2026-10-12 |
-| [L-at-nnes/OpenScissors](https://github.com/L-at-nnes/OpenScissors) | [fix(models): give downloads connect and response timeouts...](https://github.com/L-at-nnes/OpenScissors/commit/500b18f3ee88fc04de6f9fda2698311296963966) | 2026-10-12 |
+| [L-at-nnes/test-repo-private](https://github.com/L-at-nnes/test-repo-private) | [Auto contribution 2026-10-15T17:57:45](https://github.com/L-at-nnes/test-repo-private/commit/631cffe4302a3bc9f2b4d8c2fdd3ea6ae389813d) | 2026-10-15 |
+| [L-at-nnes/OpenScissors](https://github.com/L-at-nnes/OpenScissors) | [chore(release): bump version to 1.3.0](https://github.com/L-at-nnes/OpenScissors/commit/df949e69611280a97d37fb66d8f78300cbe0bc70) | 2026-10-15 |
+| [L-at-nnes/OpenScissors](https://github.com/L-at-nnes/OpenScissors) | [fix(io): judge a picture by the memory budget instead of ...](https://github.com/L-at-nnes/OpenScissors/commit/efcacaa079294cd62a5c09b17e22057d39e50a5d) | 2026-10-15 |
+| [L-at-nnes/ed2k-Manager](https://github.com/L-at-nnes/ed2k-Manager) | [feat(rename): sync "text to replace" field with selection...](https://github.com/L-at-nnes/ed2k-Manager/commit/003393d97585a4c5db0f99ec1fbdbd7963e3007f) | 2026-10-15 |
+| [L-at-nnes/OpenScissors](https://github.com/L-at-nnes/OpenScissors) | [docs: describe the shadow offset, colour adjustments, cli...](https://github.com/L-at-nnes/OpenScissors/commit/a7382803f8c85a90d23478ba051f6dac2e78dd01) | 2026-10-15 |
+| [L-at-nnes/OpenScissors](https://github.com/L-at-nnes/OpenScissors) | [test(selftest): add a popover step to the scripted scenarios](https://github.com/L-at-nnes/OpenScissors/commit/dfbe8885822955d2435ef2c3d30ef40a5dcd98d9) | 2026-10-15 |
+| [L-at-nnes/qobuzdlx.web](https://github.com/L-at-nnes/qobuzdlx.web) | [docs: point to the history instead of the legacy tag](https://github.com/L-at-nnes/qobuzdlx.web/commit/431e6d00b453a0bf9f7288441bbc30840846e80e) | 2026-10-15 |
+| [L-at-nnes/OpenScissors](https://github.com/L-at-nnes/OpenScissors) | [fix(document): cap the undo history by memory and forget ...](https://github.com/L-at-nnes/OpenScissors/commit/4d68561076794746a925a60f88fd35d9985da404) | 2026-10-15 |
+| [L-at-nnes/OpenScissors](https://github.com/L-at-nnes/OpenScissors) | [fix(models): give downloads connect and response timeouts...](https://github.com/L-at-nnes/OpenScissors/commit/d8f018d9f0a7bf284223b3c2aa11c1621d22cfbd) | 2026-10-15 |
+| [L-at-nnes/OpenScissors](https://github.com/L-at-nnes/OpenScissors) | [fix(io): refuse pictures over 100 megapixels before decod...](https://github.com/L-at-nnes/OpenScissors/commit/814af314a0c696dda2747a211107bf24d1100cb1) | 2026-10-15 |
 
 </div>
 <!-- recent_commits ends -->

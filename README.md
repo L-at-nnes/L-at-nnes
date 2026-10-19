@@ -24,16 +24,16 @@
 
 | Repo | Commit | Date |
 |---|---|---|
+| [L-at-nnes/qobuzdlx.web](https://github.com/L-at-nnes/qobuzdlx.web) | [refactor(extensions): drop a stray comment from a test](https://github.com/L-at-nnes/qobuzdlx.web/commit/ee576b373e9505b57dc361ea2db4767c6aa1ae20) | 2026-10-19 |
+| [L-at-nnes/qobuzdlx.web](https://github.com/L-at-nnes/qobuzdlx.web) | [docs(readme): present extensions and EXTENSIONS_PATH, and...](https://github.com/L-at-nnes/qobuzdlx.web/commit/e48a370fa9500c070408757ce41280ccd7c2d7e6) | 2026-10-19 |
+| [L-at-nnes/qobuzdlx.web](https://github.com/L-at-nnes/qobuzdlx.web) | [docs(extensions): add the complete extension guide](https://github.com/L-at-nnes/qobuzdlx.web/commit/5733d6a86440f3e0c5672e8e833d926bca7266de) | 2026-10-19 |
+| [L-at-nnes/qobuzdlx.web](https://github.com/L-at-nnes/qobuzdlx.web) | [add(examples): add a command extension and a webhook exte...](https://github.com/L-at-nnes/qobuzdlx.web/commit/3efdf2390f2d7df591e9b2e34c2d01f0d9271a85) | 2026-10-19 |
+| [L-at-nnes/qobuzdlx.web](https://github.com/L-at-nnes/qobuzdlx.web) | [feat(web): list the loaded extensions and the ones that f...](https://github.com/L-at-nnes/qobuzdlx.web/commit/9e87efca994d5ca5ad4bff89eb9d8435b4fef3f5) | 2026-10-19 |
+| [L-at-nnes/qobuzdlx.web](https://github.com/L-at-nnes/qobuzdlx.web) | [feat(download): tell extensions about saved tracks, finis...](https://github.com/L-at-nnes/qobuzdlx.web/commit/a9774292f4a4cf453ffc2e4a8fd41a73d87bc4a5) | 2026-10-19 |
+| [L-at-nnes/qobuzdlx.web](https://github.com/L-at-nnes/qobuzdlx.web) | [feat(config): add EXTENSIONS_PATH, defaulting to the exte...](https://github.com/L-at-nnes/qobuzdlx.web/commit/bb64d33566ea122e66884542e0e97724fbf2f90f) | 2026-10-19 |
+| [L-at-nnes/qobuzdlx.web](https://github.com/L-at-nnes/qobuzdlx.web) | [feat(extensions): add the extension trait, events, loader...](https://github.com/L-at-nnes/qobuzdlx.web/commit/8d1a0117d261d1dd1dd66b6aced4b03de9d82297) | 2026-10-19 |
 | [L-at-nnes/OpenScissors](https://github.com/L-at-nnes/OpenScissors) | [chore(release): bump version to 1.3.0](https://github.com/L-at-nnes/OpenScissors/commit/df949e69611280a97d37fb66d8f78300cbe0bc70) | 2026-10-15 |
 | [L-at-nnes/OpenScissors](https://github.com/L-at-nnes/OpenScissors) | [fix(io): judge a picture by the memory budget instead of ...](https://github.com/L-at-nnes/OpenScissors/commit/efcacaa079294cd62a5c09b17e22057d39e50a5d) | 2026-10-15 |
-| [L-at-nnes/ed2k-Manager](https://github.com/L-at-nnes/ed2k-Manager) | [feat(rename): sync "text to replace" field with selection...](https://github.com/L-at-nnes/ed2k-Manager/commit/003393d97585a4c5db0f99ec1fbdbd7963e3007f) | 2026-10-15 |
-| [L-at-nnes/OpenScissors](https://github.com/L-at-nnes/OpenScissors) | [docs: describe the shadow offset, colour adjustments, cli...](https://github.com/L-at-nnes/OpenScissors/commit/a7382803f8c85a90d23478ba051f6dac2e78dd01) | 2026-10-15 |
-| [L-at-nnes/OpenScissors](https://github.com/L-at-nnes/OpenScissors) | [test(selftest): add a popover step to the scripted scenarios](https://github.com/L-at-nnes/OpenScissors/commit/dfbe8885822955d2435ef2c3d30ef40a5dcd98d9) | 2026-10-15 |
-| [L-at-nnes/qobuzdlx.web](https://github.com/L-at-nnes/qobuzdlx.web) | [docs: point to the history instead of the legacy tag](https://github.com/L-at-nnes/qobuzdlx.web/commit/431e6d00b453a0bf9f7288441bbc30840846e80e) | 2026-10-15 |
-| [L-at-nnes/OpenScissors](https://github.com/L-at-nnes/OpenScissors) | [fix(document): cap the undo history by memory and forget ...](https://github.com/L-at-nnes/OpenScissors/commit/4d68561076794746a925a60f88fd35d9985da404) | 2026-10-15 |
-| [L-at-nnes/OpenScissors](https://github.com/L-at-nnes/OpenScissors) | [fix(models): give downloads connect and response timeouts...](https://github.com/L-at-nnes/OpenScissors/commit/d8f018d9f0a7bf284223b3c2aa11c1621d22cfbd) | 2026-10-15 |
-| [L-at-nnes/OpenScissors](https://github.com/L-at-nnes/OpenScissors) | [fix(io): refuse pictures over 100 megapixels before decod...](https://github.com/L-at-nnes/OpenScissors/commit/814af314a0c696dda2747a211107bf24d1100cb1) | 2026-10-15 |
-| [L-at-nnes/OpenScissors](https://github.com/L-at-nnes/OpenScissors) | [feat(clipboard): paste an image with Ctrl+V and copy the ...](https://github.com/L-at-nnes/OpenScissors/commit/c11631a5089f44e9014c702e3f3942cf38c041aa) | 2026-10-15 |
 
 </div>
 <!-- recent_commits ends -->

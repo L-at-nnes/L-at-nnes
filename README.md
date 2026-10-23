@@ -24,16 +24,16 @@
 
 | Repo | Commit | Date |
 |---|---|---|
-| [L-at-nnes/qobuzdlx.web](https://github.com/L-at-nnes/qobuzdlx.web) | [refactor(extensions): drop a stray comment from a test](https://github.com/L-at-nnes/qobuzdlx.web/commit/ee576b373e9505b57dc361ea2db4767c6aa1ae20) | 2026-10-19 |
-| [L-at-nnes/qobuzdlx.web](https://github.com/L-at-nnes/qobuzdlx.web) | [docs(readme): present extensions and EXTENSIONS_PATH, and...](https://github.com/L-at-nnes/qobuzdlx.web/commit/e48a370fa9500c070408757ce41280ccd7c2d7e6) | 2026-10-19 |
-| [L-at-nnes/qobuzdlx.web](https://github.com/L-at-nnes/qobuzdlx.web) | [docs(extensions): add the complete extension guide](https://github.com/L-at-nnes/qobuzdlx.web/commit/5733d6a86440f3e0c5672e8e833d926bca7266de) | 2026-10-19 |
-| [L-at-nnes/qobuzdlx.web](https://github.com/L-at-nnes/qobuzdlx.web) | [add(examples): add a command extension and a webhook exte...](https://github.com/L-at-nnes/qobuzdlx.web/commit/3efdf2390f2d7df591e9b2e34c2d01f0d9271a85) | 2026-10-19 |
-| [L-at-nnes/qobuzdlx.web](https://github.com/L-at-nnes/qobuzdlx.web) | [feat(web): list the loaded extensions and the ones that f...](https://github.com/L-at-nnes/qobuzdlx.web/commit/9e87efca994d5ca5ad4bff89eb9d8435b4fef3f5) | 2026-10-19 |
-| [L-at-nnes/qobuzdlx.web](https://github.com/L-at-nnes/qobuzdlx.web) | [feat(download): tell extensions about saved tracks, finis...](https://github.com/L-at-nnes/qobuzdlx.web/commit/a9774292f4a4cf453ffc2e4a8fd41a73d87bc4a5) | 2026-10-19 |
-| [L-at-nnes/qobuzdlx.web](https://github.com/L-at-nnes/qobuzdlx.web) | [feat(config): add EXTENSIONS_PATH, defaulting to the exte...](https://github.com/L-at-nnes/qobuzdlx.web/commit/bb64d33566ea122e66884542e0e97724fbf2f90f) | 2026-10-19 |
-| [L-at-nnes/qobuzdlx.web](https://github.com/L-at-nnes/qobuzdlx.web) | [feat(extensions): add the extension trait, events, loader...](https://github.com/L-at-nnes/qobuzdlx.web/commit/8d1a0117d261d1dd1dd66b6aced4b03de9d82297) | 2026-10-19 |
-| [L-at-nnes/OpenScissors](https://github.com/L-at-nnes/OpenScissors) | [chore(release): bump version to 1.3.0](https://github.com/L-at-nnes/OpenScissors/commit/df949e69611280a97d37fb66d8f78300cbe0bc70) | 2026-10-15 |
-| [L-at-nnes/OpenScissors](https://github.com/L-at-nnes/OpenScissors) | [fix(io): judge a picture by the memory budget instead of ...](https://github.com/L-at-nnes/OpenScissors/commit/efcacaa079294cd62a5c09b17e22057d39e50a5d) | 2026-10-15 |
+| [L-at-nnes/L-at-nnes](https://github.com/L-at-nnes/L-at-nnes) | [fix(readme): ignore empty repos (409) when fetching recen...](https://github.com/L-at-nnes/L-at-nnes/commit/4fb48d0769bfad557abd219f23dbf6f50972643d) | 2026-10-23 |
+| [L-at-nnes/ed2k-vault](https://github.com/L-at-nnes/ed2k-vault) | [chore(release): bump version to 0.1.1](https://github.com/L-at-nnes/ed2k-vault/commit/f7cc20dadabb1714512448aedb65d57c2f657dac) | 2026-10-23 |
+| [L-at-nnes/ed2k-vault](https://github.com/L-at-nnes/ed2k-vault) | [fix(ci): build the intel macos target on the arm runner](https://github.com/L-at-nnes/ed2k-vault/commit/5b6b18917ab5eecf3bed643b9774e9c13621fb23) | 2026-10-23 |
+| [L-at-nnes/ed2k-vault](https://github.com/L-at-nnes/ed2k-vault) | [docs(readme): add icon, screenshots and portable build in...](https://github.com/L-at-nnes/ed2k-vault/commit/6fd23c4c0779544b2d4c184f75120d2ea0221597) | 2026-10-23 |
+| [L-at-nnes/ed2k-vault](https://github.com/L-at-nnes/ed2k-vault) | [docs: add gui screenshots](https://github.com/L-at-nnes/ed2k-vault/commit/2133e59bf08f9bf82cc9cbb34c15f050fdc22db8) | 2026-10-23 |
+| [L-at-nnes/ed2k-vault](https://github.com/L-at-nnes/ed2k-vault) | [feat(gui): pick the format from the typed output extension](https://github.com/L-at-nnes/ed2k-vault/commit/313ef4fe627d4273a680eeb540dd73c1a430e54c) | 2026-10-23 |
+| [L-at-nnes/ed2k-vault](https://github.com/L-at-nnes/ed2k-vault) | [fix(gui): do not repeat the headline in the details box](https://github.com/L-at-nnes/ed2k-vault/commit/ec55a701c73cdb3b6d673f39a046b36c60ae233f) | 2026-10-23 |
+| [L-at-nnes/ed2k-vault](https://github.com/L-at-nnes/ed2k-vault) | [fix(gui): stop the progress area from stretching over the...](https://github.com/L-at-nnes/ed2k-vault/commit/6d8c11c5775d81f32cfa43e0d7c2782c30c95235) | 2026-10-23 |
+| [L-at-nnes/ed2k-vault](https://github.com/L-at-nnes/ed2k-vault) | [fix(core): report folders that cannot be listed instead o...](https://github.com/L-at-nnes/ed2k-vault/commit/4860f1a3e2b620a3ca84adec0554d21a59760fc4) | 2026-10-23 |
+| [L-at-nnes/ed2k-vault](https://github.com/L-at-nnes/ed2k-vault) | [chore(assets): drop the icon generator script](https://github.com/L-at-nnes/ed2k-vault/commit/11b2f99d67a8f61ad7863b79168cfe7275c851c1) | 2026-10-23 |
 
 </div>
 <!-- recent_commits ends -->

@@ -19,6 +19,8 @@ function authHeaders() {
 
 async function fetchJson(url) {
   const res = await fetch(url, { headers: authHeaders() });
+  // 409 = empty repository (no commits yet)
+  if (res.status === 409) return [];
   if (!res.ok) {
     throw new Error(`GitHub API error for ${url}: ${res.status} ${res.statusText}`);
   }

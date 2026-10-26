@@ -24,16 +24,16 @@
 
 | Repo | Commit | Date |
 |---|---|---|
-| [L-at-nnes/L-at-nnes](https://github.com/L-at-nnes/L-at-nnes) | [fix(readme): ignore empty repos (409) when fetching recen...](https://github.com/L-at-nnes/L-at-nnes/commit/4fb48d0769bfad557abd219f23dbf6f50972643d) | 2026-10-23 |
-| [L-at-nnes/ed2k-vault](https://github.com/L-at-nnes/ed2k-vault) | [chore(release): bump version to 0.1.1](https://github.com/L-at-nnes/ed2k-vault/commit/f7cc20dadabb1714512448aedb65d57c2f657dac) | 2026-10-23 |
-| [L-at-nnes/ed2k-vault](https://github.com/L-at-nnes/ed2k-vault) | [fix(ci): build the intel macos target on the arm runner](https://github.com/L-at-nnes/ed2k-vault/commit/5b6b18917ab5eecf3bed643b9774e9c13621fb23) | 2026-10-23 |
-| [L-at-nnes/ed2k-vault](https://github.com/L-at-nnes/ed2k-vault) | [docs(readme): add icon, screenshots and portable build in...](https://github.com/L-at-nnes/ed2k-vault/commit/6fd23c4c0779544b2d4c184f75120d2ea0221597) | 2026-10-23 |
-| [L-at-nnes/ed2k-vault](https://github.com/L-at-nnes/ed2k-vault) | [docs: add gui screenshots](https://github.com/L-at-nnes/ed2k-vault/commit/2133e59bf08f9bf82cc9cbb34c15f050fdc22db8) | 2026-10-23 |
-| [L-at-nnes/ed2k-vault](https://github.com/L-at-nnes/ed2k-vault) | [feat(gui): pick the format from the typed output extension](https://github.com/L-at-nnes/ed2k-vault/commit/313ef4fe627d4273a680eeb540dd73c1a430e54c) | 2026-10-23 |
-| [L-at-nnes/ed2k-vault](https://github.com/L-at-nnes/ed2k-vault) | [fix(gui): do not repeat the headline in the details box](https://github.com/L-at-nnes/ed2k-vault/commit/ec55a701c73cdb3b6d673f39a046b36c60ae233f) | 2026-10-23 |
-| [L-at-nnes/ed2k-vault](https://github.com/L-at-nnes/ed2k-vault) | [fix(gui): stop the progress area from stretching over the...](https://github.com/L-at-nnes/ed2k-vault/commit/6d8c11c5775d81f32cfa43e0d7c2782c30c95235) | 2026-10-23 |
-| [L-at-nnes/ed2k-vault](https://github.com/L-at-nnes/ed2k-vault) | [fix(core): report folders that cannot be listed instead o...](https://github.com/L-at-nnes/ed2k-vault/commit/4860f1a3e2b620a3ca84adec0554d21a59760fc4) | 2026-10-23 |
-| [L-at-nnes/ed2k-vault](https://github.com/L-at-nnes/ed2k-vault) | [chore(assets): drop the icon generator script](https://github.com/L-at-nnes/ed2k-vault/commit/11b2f99d67a8f61ad7863b79168cfe7275c851c1) | 2026-10-23 |
+| [L-at-nnes/CrossyRoad-Tools](https://github.com/L-at-nnes/CrossyRoad-Tools) | [Initial commit](https://github.com/L-at-nnes/CrossyRoad-Tools/commit/069623b410c6f11183115fbdddb2545083414cb0) | 2026-10-26 |
+| [L-at-nnes/ed2k-vault](https://github.com/L-at-nnes/ed2k-vault) | [chore(release): bump version to 0.2.0](https://github.com/L-at-nnes/ed2k-vault/commit/14cf96b536331878842de2e7211725942ef7aae7) | 2026-10-26 |
+| [L-at-nnes/ed2k-vault](https://github.com/L-at-nnes/ed2k-vault) | [docs(readme): document restoring file names from a saved ...](https://github.com/L-at-nnes/ed2k-vault/commit/47cbea1deb04bcc43b5adacbc7ba67598c6c0d5e) | 2026-10-26 |
+| [L-at-nnes/ed2k-vault](https://github.com/L-at-nnes/ed2k-vault) | [test(cli): cover compare reporting, renaming and missing ...](https://github.com/L-at-nnes/ed2k-vault/commit/2590233e21acb60604d16f4eebc1be51f58a85c7) | 2026-10-26 |
+| [L-at-nnes/ed2k-vault](https://github.com/L-at-nnes/ed2k-vault) | [feat(cli): add the compare command to restore names from ...](https://github.com/L-at-nnes/ed2k-vault/commit/7260539cd5aa255dc19a73688a20cb1a94a809e8) | 2026-10-26 |
+| [L-at-nnes/ed2k-vault](https://github.com/L-at-nnes/ed2k-vault) | [refactor(cli): share filter, performance and cache option...](https://github.com/L-at-nnes/ed2k-vault/commit/e3f59ab6399be487628b5a4541370ea3e117cd80) | 2026-10-26 |
+| [L-at-nnes/ed2k-vault](https://github.com/L-at-nnes/ed2k-vault) | [feat(core): match folder files to a saved list by hash an...](https://github.com/L-at-nnes/ed2k-vault/commit/96dfc1898294827826fdd4f4ec11f401766e3f8a) | 2026-10-26 |
+| [L-at-nnes/ed2k-vault](https://github.com/L-at-nnes/ed2k-vault) | [feat(core): read back saved link lists and emulecollectio...](https://github.com/L-at-nnes/ed2k-vault/commit/5e77b8ff4d76dd4995192fe33d19e0ea160787aa) | 2026-10-25 |
+| [L-at-nnes/ed2k-vault](https://github.com/L-at-nnes/ed2k-vault) | [refactor(core): expose scan_with to consume hashed files ...](https://github.com/L-at-nnes/ed2k-vault/commit/d4177cf972f23079722d4b1c9baae6bd420285e6) | 2026-10-25 |
+| [L-at-nnes/ed2k-vault](https://github.com/L-at-nnes/ed2k-vault) | [docs(readme): add a step by step quick start for non tech...](https://github.com/L-at-nnes/ed2k-vault/commit/c9ea8d1e9eaabfc151b4b5cc0497722d64e1c36c) | 2026-10-25 |
 
 </div>
 <!-- recent_commits ends -->

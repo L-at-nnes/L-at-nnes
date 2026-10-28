@@ -24,16 +24,16 @@
 
 | Repo | Commit | Date |
 |---|---|---|
-| [L-at-nnes/CrossyRoad-Tools](https://github.com/L-at-nnes/CrossyRoad-Tools) | [Initial commit](https://github.com/L-at-nnes/CrossyRoad-Tools/commit/069623b410c6f11183115fbdddb2545083414cb0) | 2026-10-26 |
-| [L-at-nnes/ed2k-vault](https://github.com/L-at-nnes/ed2k-vault) | [chore(release): bump version to 0.2.0](https://github.com/L-at-nnes/ed2k-vault/commit/14cf96b536331878842de2e7211725942ef7aae7) | 2026-10-26 |
-| [L-at-nnes/ed2k-vault](https://github.com/L-at-nnes/ed2k-vault) | [docs(readme): document restoring file names from a saved ...](https://github.com/L-at-nnes/ed2k-vault/commit/47cbea1deb04bcc43b5adacbc7ba67598c6c0d5e) | 2026-10-26 |
-| [L-at-nnes/ed2k-vault](https://github.com/L-at-nnes/ed2k-vault) | [test(cli): cover compare reporting, renaming and missing ...](https://github.com/L-at-nnes/ed2k-vault/commit/2590233e21acb60604d16f4eebc1be51f58a85c7) | 2026-10-26 |
-| [L-at-nnes/ed2k-vault](https://github.com/L-at-nnes/ed2k-vault) | [feat(cli): add the compare command to restore names from ...](https://github.com/L-at-nnes/ed2k-vault/commit/7260539cd5aa255dc19a73688a20cb1a94a809e8) | 2026-10-26 |
-| [L-at-nnes/ed2k-vault](https://github.com/L-at-nnes/ed2k-vault) | [refactor(cli): share filter, performance and cache option...](https://github.com/L-at-nnes/ed2k-vault/commit/e3f59ab6399be487628b5a4541370ea3e117cd80) | 2026-10-26 |
-| [L-at-nnes/ed2k-vault](https://github.com/L-at-nnes/ed2k-vault) | [feat(core): match folder files to a saved list by hash an...](https://github.com/L-at-nnes/ed2k-vault/commit/96dfc1898294827826fdd4f4ec11f401766e3f8a) | 2026-10-26 |
-| [L-at-nnes/ed2k-vault](https://github.com/L-at-nnes/ed2k-vault) | [feat(core): read back saved link lists and emulecollectio...](https://github.com/L-at-nnes/ed2k-vault/commit/5e77b8ff4d76dd4995192fe33d19e0ea160787aa) | 2026-10-25 |
-| [L-at-nnes/ed2k-vault](https://github.com/L-at-nnes/ed2k-vault) | [refactor(core): expose scan_with to consume hashed files ...](https://github.com/L-at-nnes/ed2k-vault/commit/d4177cf972f23079722d4b1c9baae6bd420285e6) | 2026-10-25 |
-| [L-at-nnes/ed2k-vault](https://github.com/L-at-nnes/ed2k-vault) | [docs(readme): add a step by step quick start for non tech...](https://github.com/L-at-nnes/ed2k-vault/commit/c9ea8d1e9eaabfc151b4b5cc0497722d64e1c36c) | 2026-10-25 |
+| [L-at-nnes/qobuzdlx.web](https://github.com/L-at-nnes/qobuzdlx.web) | [docs(readme): describe how big a queue can be, what was m...](https://github.com/L-at-nnes/qobuzdlx.web/commit/611cf05dd10666d2093596242c853f54221f3475) | 2026-10-28 |
+| [L-at-nnes/qobuzdlx.web](https://github.com/L-at-nnes/qobuzdlx.web) | [docs(demo): answer the part of the queue asked for, the f...](https://github.com/L-at-nnes/qobuzdlx.web/commit/3c0b90691d3a90c341a4b10f1114601f0789a5a3) | 2026-10-28 |
+| [L-at-nnes/qobuzdlx.web](https://github.com/L-at-nnes/qobuzdlx.web) | [feat(web): play the queue through many times to estimate ...](https://github.com/L-at-nnes/qobuzdlx.web/commit/1d72f7e913127c19080950c135bbeca88931012f) | 2026-10-28 |
+| [L-at-nnes/qobuzdlx.web](https://github.com/L-at-nnes/qobuzdlx.web) | [feat(web): ask the server only for the part of the queue ...](https://github.com/L-at-nnes/qobuzdlx.web/commit/f776de3ae5734fe5f7221a03ccf2a5fe0ed7eac9) | 2026-10-27 |
+| [L-at-nnes/qobuzdlx.web](https://github.com/L-at-nnes/qobuzdlx.web) | [feat(download): write a long queue less often, in proport...](https://github.com/L-at-nnes/qobuzdlx.web/commit/15cd5c5d5b945ec369b498c68b8e754fd95798f8) | 2026-10-27 |
+| [L-at-nnes/qobuzdlx.web](https://github.com/L-at-nnes/qobuzdlx.web) | [feat(api): give a page only the part of the queue it asks...](https://github.com/L-at-nnes/qobuzdlx.web/commit/e3cc4654e5636fbe8192fe8e7158c27571c359b3) | 2026-10-27 |
+| [L-at-nnes/qobuzdlx.web](https://github.com/L-at-nnes/qobuzdlx.web) | [docs(readme): explain the time left and the pause that su...](https://github.com/L-at-nnes/qobuzdlx.web/commit/b3cf4efd7f73bd94b6e0fbb7b835436e25ca7fac) | 2026-10-26 |
+| [L-at-nnes/qobuzdlx.web](https://github.com/L-at-nnes/qobuzdlx.web) | [docs(demo): give the fake finished albums a duration and ...](https://github.com/L-at-nnes/qobuzdlx.web/commit/c0d7a20f1dba2d69e110603f21195bd3d3c59caa) | 2026-10-26 |
+| [L-at-nnes/qobuzdlx.web](https://github.com/L-at-nnes/qobuzdlx.web) | [feat(web): show the time left of the queue with its range...](https://github.com/L-at-nnes/qobuzdlx.web/commit/c18ab6ae8deeecef78fc27acf5e1b44647d81dfc) | 2026-10-26 |
+| [L-at-nnes/qobuzdlx.web](https://github.com/L-at-nnes/qobuzdlx.web) | [feat(web): estimate the time a queue still needs from the...](https://github.com/L-at-nnes/qobuzdlx.web/commit/66c1ff8ee372ff5579acbe5a5c8a0f8315b126a6) | 2026-10-26 |
 
 </div>
 <!-- recent_commits ends -->

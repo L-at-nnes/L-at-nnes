@@ -24,6 +24,8 @@
 
 | Repo | Commit | Date |
 |---|---|---|
+| [L-at-nnes/qobuzdlx.web](https://github.com/L-at-nnes/qobuzdlx.web) | [docs: add demo video](https://github.com/L-at-nnes/qobuzdlx.web/commit/30bb5fd51000083b7d55c0bee001da9721386a1d) | 2026-10-28 |
+| [L-at-nnes/qobuzdlx.web](https://github.com/L-at-nnes/qobuzdlx.web) | [docs: remove the tour video, thumbnail and README block, ...](https://github.com/L-at-nnes/qobuzdlx.web/commit/6f125b88c20c894396183374aac95bc3f1514d53) | 2026-10-28 |
 | [L-at-nnes/qobuzdlx.web](https://github.com/L-at-nnes/qobuzdlx.web) | [fix(docs): link the tour video from a thumbnail since git...](https://github.com/L-at-nnes/qobuzdlx.web/commit/7505b1de9a5787b4e4b101320172c8ef7efea6ec) | 2026-10-28 |
 | [L-at-nnes/qobuzdlx.web](https://github.com/L-at-nnes/qobuzdlx.web) | [docs(readme): embed the tour video under the first screen...](https://github.com/L-at-nnes/qobuzdlx.web/commit/b05152a912891d80b222d7f45af75b4b85984b63) | 2026-10-28 |
 | [L-at-nnes/qobuzdlx.web](https://github.com/L-at-nnes/qobuzdlx.web) | [add(docs): add a 50 second tour video of the download engine](https://github.com/L-at-nnes/qobuzdlx.web/commit/61cd44cbc99d24c6d9b64252812ecd77f1f13de2) | 2026-10-28 |
@@ -32,8 +34,6 @@
 | [L-at-nnes/ed2k-vault](https://github.com/L-at-nnes/ed2k-vault) | [docs(readme): document the folder structure options](https://github.com/L-at-nnes/ed2k-vault/commit/052935da6f03f56520f9c5ea57d4ba4d32d20216) | 2026-10-28 |
 | [L-at-nnes/ed2k-vault](https://github.com/L-at-nnes/ed2k-vault) | [feat(gui): add folder structure options (grouping, per-fo...](https://github.com/L-at-nnes/ed2k-vault/commit/d13e88ce8936778d23fbb311753cee86457c1157) | 2026-10-28 |
 | [L-at-nnes/ed2k-vault](https://github.com/L-at-nnes/ed2k-vault) | [feat(cli): add group-by-folder, split-collections and tre...](https://github.com/L-at-nnes/ed2k-vault/commit/514b99c3b794531e5a16ff1e48ebb1f6acc25d9b) | 2026-10-28 |
-| [L-at-nnes/ed2k-vault](https://github.com/L-at-nnes/ed2k-vault) | [feat(core): keep the folder structure with grouped output...](https://github.com/L-at-nnes/ed2k-vault/commit/9bcf2a90eff5d675b01ad823e67a8ef4a78b54cd) | 2026-10-28 |
-| [L-at-nnes/qobuzdlx.web](https://github.com/L-at-nnes/qobuzdlx.web) | [docs(readme): describe how big a queue can be, what was m...](https://github.com/L-at-nnes/qobuzdlx.web/commit/611cf05dd10666d2093596242c853f54221f3475) | 2026-10-28 |
 
 </div>
 <!-- recent_commits ends -->

@@ -24,16 +24,16 @@
 
 | Repo | Commit | Date |
 |---|---|---|
+| [L-at-nnes/qobuzdlx.web](https://github.com/L-at-nnes/qobuzdlx.web) | [fix(docs): link the tour video from a thumbnail since git...](https://github.com/L-at-nnes/qobuzdlx.web/commit/7505b1de9a5787b4e4b101320172c8ef7efea6ec) | 2026-10-28 |
+| [L-at-nnes/qobuzdlx.web](https://github.com/L-at-nnes/qobuzdlx.web) | [docs(readme): embed the tour video under the first screen...](https://github.com/L-at-nnes/qobuzdlx.web/commit/b05152a912891d80b222d7f45af75b4b85984b63) | 2026-10-28 |
+| [L-at-nnes/qobuzdlx.web](https://github.com/L-at-nnes/qobuzdlx.web) | [add(docs): add a 50 second tour video of the download engine](https://github.com/L-at-nnes/qobuzdlx.web/commit/61cd44cbc99d24c6d9b64252812ecd77f1f13de2) | 2026-10-28 |
+| [L-at-nnes/ed2k-vault](https://github.com/L-at-nnes/ed2k-vault) | [chore(release): bump version to 0.3.0](https://github.com/L-at-nnes/ed2k-vault/commit/ebb3c57e0b06d829c8f606b2d3635c33ac084c73) | 2026-10-28 |
+| [L-at-nnes/ed2k-Manager](https://github.com/L-at-nnes/ed2k-Manager) | [feat(script): match local files via file:///*](https://github.com/L-at-nnes/ed2k-Manager/commit/6e5146cb1b9a386a15c4054a2f320dc8895b0d5d) | 2026-10-28 |
+| [L-at-nnes/ed2k-vault](https://github.com/L-at-nnes/ed2k-vault) | [docs(readme): document the folder structure options](https://github.com/L-at-nnes/ed2k-vault/commit/052935da6f03f56520f9c5ea57d4ba4d32d20216) | 2026-10-28 |
+| [L-at-nnes/ed2k-vault](https://github.com/L-at-nnes/ed2k-vault) | [feat(gui): add folder structure options (grouping, per-fo...](https://github.com/L-at-nnes/ed2k-vault/commit/d13e88ce8936778d23fbb311753cee86457c1157) | 2026-10-28 |
+| [L-at-nnes/ed2k-vault](https://github.com/L-at-nnes/ed2k-vault) | [feat(cli): add group-by-folder, split-collections and tre...](https://github.com/L-at-nnes/ed2k-vault/commit/514b99c3b794531e5a16ff1e48ebb1f6acc25d9b) | 2026-10-28 |
+| [L-at-nnes/ed2k-vault](https://github.com/L-at-nnes/ed2k-vault) | [feat(core): keep the folder structure with grouped output...](https://github.com/L-at-nnes/ed2k-vault/commit/9bcf2a90eff5d675b01ad823e67a8ef4a78b54cd) | 2026-10-28 |
 | [L-at-nnes/qobuzdlx.web](https://github.com/L-at-nnes/qobuzdlx.web) | [docs(readme): describe how big a queue can be, what was m...](https://github.com/L-at-nnes/qobuzdlx.web/commit/611cf05dd10666d2093596242c853f54221f3475) | 2026-10-28 |
-| [L-at-nnes/qobuzdlx.web](https://github.com/L-at-nnes/qobuzdlx.web) | [docs(demo): answer the part of the queue asked for, the f...](https://github.com/L-at-nnes/qobuzdlx.web/commit/3c0b90691d3a90c341a4b10f1114601f0789a5a3) | 2026-10-28 |
-| [L-at-nnes/qobuzdlx.web](https://github.com/L-at-nnes/qobuzdlx.web) | [feat(web): play the queue through many times to estimate ...](https://github.com/L-at-nnes/qobuzdlx.web/commit/1d72f7e913127c19080950c135bbeca88931012f) | 2026-10-28 |
-| [L-at-nnes/qobuzdlx.web](https://github.com/L-at-nnes/qobuzdlx.web) | [feat(web): ask the server only for the part of the queue ...](https://github.com/L-at-nnes/qobuzdlx.web/commit/f776de3ae5734fe5f7221a03ccf2a5fe0ed7eac9) | 2026-10-27 |
-| [L-at-nnes/qobuzdlx.web](https://github.com/L-at-nnes/qobuzdlx.web) | [feat(download): write a long queue less often, in proport...](https://github.com/L-at-nnes/qobuzdlx.web/commit/15cd5c5d5b945ec369b498c68b8e754fd95798f8) | 2026-10-27 |
-| [L-at-nnes/qobuzdlx.web](https://github.com/L-at-nnes/qobuzdlx.web) | [feat(api): give a page only the part of the queue it asks...](https://github.com/L-at-nnes/qobuzdlx.web/commit/e3cc4654e5636fbe8192fe8e7158c27571c359b3) | 2026-10-27 |
-| [L-at-nnes/qobuzdlx.web](https://github.com/L-at-nnes/qobuzdlx.web) | [docs(readme): explain the time left and the pause that su...](https://github.com/L-at-nnes/qobuzdlx.web/commit/b3cf4efd7f73bd94b6e0fbb7b835436e25ca7fac) | 2026-10-26 |
-| [L-at-nnes/qobuzdlx.web](https://github.com/L-at-nnes/qobuzdlx.web) | [docs(demo): give the fake finished albums a duration and ...](https://github.com/L-at-nnes/qobuzdlx.web/commit/c0d7a20f1dba2d69e110603f21195bd3d3c59caa) | 2026-10-26 |
-| [L-at-nnes/qobuzdlx.web](https://github.com/L-at-nnes/qobuzdlx.web) | [feat(web): show the time left of the queue with its range...](https://github.com/L-at-nnes/qobuzdlx.web/commit/c18ab6ae8deeecef78fc27acf5e1b44647d81dfc) | 2026-10-26 |
-| [L-at-nnes/qobuzdlx.web](https://github.com/L-at-nnes/qobuzdlx.web) | [feat(web): estimate the time a queue still needs from the...](https://github.com/L-at-nnes/qobuzdlx.web/commit/66c1ff8ee372ff5579acbe5a5c8a0f8315b126a6) | 2026-10-26 |
 
 </div>
 <!-- recent_commits ends -->

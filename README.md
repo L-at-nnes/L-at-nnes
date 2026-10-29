@@ -24,6 +24,9 @@
 
 | Repo | Commit | Date |
 |---|---|---|
+| [L-at-nnes/OpenScissors](https://github.com/L-at-nnes/OpenScissors) | [chore(release): bump version to 1.4.0](https://github.com/L-at-nnes/OpenScissors/commit/3fc41da8cbdd68bb6cd4d597c57059c573fbf16b) | 2026-10-29 |
+| [L-at-nnes/OpenScissors](https://github.com/L-at-nnes/OpenScissors) | [docs: Add video link for project demonstration](https://github.com/L-at-nnes/OpenScissors/commit/470a1fdb6a967b06d1573eca9c3268a623615955) | 2026-10-29 |
+| [L-at-nnes/OpenScissors](https://github.com/L-at-nnes/OpenScissors) | [docs(readme): add a section for the demo video](https://github.com/L-at-nnes/OpenScissors/commit/490c3f6202fb8667dacc4ada3b95727b6325b50b) | 2026-10-29 |
 | [L-at-nnes/qobuzdlx.web](https://github.com/L-at-nnes/qobuzdlx.web) | [docs: add demo video](https://github.com/L-at-nnes/qobuzdlx.web/commit/30bb5fd51000083b7d55c0bee001da9721386a1d) | 2026-10-28 |
 | [L-at-nnes/qobuzdlx.web](https://github.com/L-at-nnes/qobuzdlx.web) | [docs: remove the tour video, thumbnail and README block, ...](https://github.com/L-at-nnes/qobuzdlx.web/commit/6f125b88c20c894396183374aac95bc3f1514d53) | 2026-10-28 |
 | [L-at-nnes/qobuzdlx.web](https://github.com/L-at-nnes/qobuzdlx.web) | [fix(docs): link the tour video from a thumbnail since git...](https://github.com/L-at-nnes/qobuzdlx.web/commit/7505b1de9a5787b4e4b101320172c8ef7efea6ec) | 2026-10-28 |
@@ -31,9 +34,6 @@
 | [L-at-nnes/qobuzdlx.web](https://github.com/L-at-nnes/qobuzdlx.web) | [add(docs): add a 50 second tour video of the download engine](https://github.com/L-at-nnes/qobuzdlx.web/commit/61cd44cbc99d24c6d9b64252812ecd77f1f13de2) | 2026-10-28 |
 | [L-at-nnes/ed2k-vault](https://github.com/L-at-nnes/ed2k-vault) | [chore(release): bump version to 0.3.0](https://github.com/L-at-nnes/ed2k-vault/commit/ebb3c57e0b06d829c8f606b2d3635c33ac084c73) | 2026-10-28 |
 | [L-at-nnes/ed2k-Manager](https://github.com/L-at-nnes/ed2k-Manager) | [feat(script): match local files via file:///*](https://github.com/L-at-nnes/ed2k-Manager/commit/6e5146cb1b9a386a15c4054a2f320dc8895b0d5d) | 2026-10-28 |
-| [L-at-nnes/ed2k-vault](https://github.com/L-at-nnes/ed2k-vault) | [docs(readme): document the folder structure options](https://github.com/L-at-nnes/ed2k-vault/commit/052935da6f03f56520f9c5ea57d4ba4d32d20216) | 2026-10-28 |
-| [L-at-nnes/ed2k-vault](https://github.com/L-at-nnes/ed2k-vault) | [feat(gui): add folder structure options (grouping, per-fo...](https://github.com/L-at-nnes/ed2k-vault/commit/d13e88ce8936778d23fbb311753cee86457c1157) | 2026-10-28 |
-| [L-at-nnes/ed2k-vault](https://github.com/L-at-nnes/ed2k-vault) | [feat(cli): add group-by-folder, split-collections and tre...](https://github.com/L-at-nnes/ed2k-vault/commit/514b99c3b794531e5a16ff1e48ebb1f6acc25d9b) | 2026-10-28 |
 
 </div>
 <!-- recent_commits ends -->

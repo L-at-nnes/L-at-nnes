@@ -24,16 +24,16 @@
 
 | Repo | Commit | Date |
 |---|---|---|
-| [L-at-nnes/OpenScissors](https://github.com/L-at-nnes/OpenScissors) | [chore(release): bump version to 1.4.0](https://github.com/L-at-nnes/OpenScissors/commit/3fc41da8cbdd68bb6cd4d597c57059c573fbf16b) | 2026-10-29 |
-| [L-at-nnes/OpenScissors](https://github.com/L-at-nnes/OpenScissors) | [docs: Add video link for project demonstration](https://github.com/L-at-nnes/OpenScissors/commit/470a1fdb6a967b06d1573eca9c3268a623615955) | 2026-10-29 |
-| [L-at-nnes/OpenScissors](https://github.com/L-at-nnes/OpenScissors) | [docs(readme): add a section for the demo video](https://github.com/L-at-nnes/OpenScissors/commit/490c3f6202fb8667dacc4ada3b95727b6325b50b) | 2026-10-29 |
-| [L-at-nnes/qobuzdlx.web](https://github.com/L-at-nnes/qobuzdlx.web) | [docs: add demo video](https://github.com/L-at-nnes/qobuzdlx.web/commit/30bb5fd51000083b7d55c0bee001da9721386a1d) | 2026-10-28 |
-| [L-at-nnes/qobuzdlx.web](https://github.com/L-at-nnes/qobuzdlx.web) | [docs: remove the tour video, thumbnail and README block, ...](https://github.com/L-at-nnes/qobuzdlx.web/commit/6f125b88c20c894396183374aac95bc3f1514d53) | 2026-10-28 |
-| [L-at-nnes/qobuzdlx.web](https://github.com/L-at-nnes/qobuzdlx.web) | [fix(docs): link the tour video from a thumbnail since git...](https://github.com/L-at-nnes/qobuzdlx.web/commit/7505b1de9a5787b4e4b101320172c8ef7efea6ec) | 2026-10-28 |
-| [L-at-nnes/qobuzdlx.web](https://github.com/L-at-nnes/qobuzdlx.web) | [docs(readme): embed the tour video under the first screen...](https://github.com/L-at-nnes/qobuzdlx.web/commit/b05152a912891d80b222d7f45af75b4b85984b63) | 2026-10-28 |
-| [L-at-nnes/qobuzdlx.web](https://github.com/L-at-nnes/qobuzdlx.web) | [add(docs): add a 50 second tour video of the download engine](https://github.com/L-at-nnes/qobuzdlx.web/commit/61cd44cbc99d24c6d9b64252812ecd77f1f13de2) | 2026-10-28 |
-| [L-at-nnes/ed2k-vault](https://github.com/L-at-nnes/ed2k-vault) | [chore(release): bump version to 0.3.0](https://github.com/L-at-nnes/ed2k-vault/commit/ebb3c57e0b06d829c8f606b2d3635c33ac084c73) | 2026-10-28 |
-| [L-at-nnes/ed2k-Manager](https://github.com/L-at-nnes/ed2k-Manager) | [feat(script): match local files via file:///*](https://github.com/L-at-nnes/ed2k-Manager/commit/6e5146cb1b9a386a15c4054a2f320dc8895b0d5d) | 2026-10-28 |
+| [L-at-nnes/khinsider-webui](https://github.com/L-at-nnes/khinsider-webui) | [docs: document search links and multi-disc albums, releas...](https://github.com/L-at-nnes/khinsider-webui/commit/41856d79b5499db39ccabaf1352aa66eac90022e) | 2026-10-31 |
+| [L-at-nnes/khinsider-webui](https://github.com/L-at-nnes/khinsider-webui) | [feat(downloader): keep the disc of every track with per-d...](https://github.com/L-at-nnes/khinsider-webui/commit/31567f5a2f731af0ae60f04345c27c2542084296) | 2026-10-31 |
+| [L-at-nnes/khinsider-webui](https://github.com/L-at-nnes/khinsider-webui) | [fix(metadata): ignore a credit label alone on its line an...](https://github.com/L-at-nnes/khinsider-webui/commit/f080d33c3602c41b2b4987716287caef7b249a05) | 2026-10-31 |
+| [L-at-nnes/khinsider-webui](https://github.com/L-at-nnes/khinsider-webui) | [feat(urls): accept search result pages and name their fol...](https://github.com/L-at-nnes/khinsider-webui/commit/e4d2489a955ffad4218838c31e020536ab1dda56) | 2026-10-31 |
+| [L-at-nnes/khinsider-webui](https://github.com/L-at-nnes/khinsider-webui) | [docs: document page access, record live validation and re...](https://github.com/L-at-nnes/khinsider-webui/commit/429512abadf500bda19957c6860bc1fbda44b934) | 2026-10-31 |
+| [L-at-nnes/khinsider-webui](https://github.com/L-at-nnes/khinsider-webui) | [feat(ui): show every harvested field in the album detail ...](https://github.com/L-at-nnes/khinsider-webui/commit/1e8fd11d358940b452c960ff3f43450bcf0c2475) | 2026-10-31 |
+| [L-at-nnes/khinsider-webui](https://github.com/L-at-nnes/khinsider-webui) | [fix(http): announce the switch to the browser only once w...](https://github.com/L-at-nnes/khinsider-webui/commit/4ef609d872751ba6b93d3c8caed5bb48a9a46e17) | 2026-10-31 |
+| [L-at-nnes/khinsider-webui](https://github.com/L-at-nnes/khinsider-webui) | [fix(downloader): record the tagged flag in the sidecar in...](https://github.com/L-at-nnes/khinsider-webui/commit/29cc794b10a8d1f46531ddbe8feb0c71cc6875f8) | 2026-10-31 |
+| [L-at-nnes/khinsider-webui](https://github.com/L-at-nnes/khinsider-webui) | [fix(scraper): read the alternate titles block, clean inli...](https://github.com/L-at-nnes/khinsider-webui/commit/3b598b96aa4620caf480a948d4e38a3ee712761e) | 2026-10-31 |
+| [L-at-nnes/khinsider-webui](https://github.com/L-at-nnes/khinsider-webui) | [chore(deps): add playwright for browser page access](https://github.com/L-at-nnes/khinsider-webui/commit/895b177187e8107d7d0131639fd21c1aeae3b578) | 2026-10-31 |
 
 </div>
 <!-- recent_commits ends -->

@@ -24,6 +24,8 @@
 
 | Repo | Commit | Date |
 |---|---|---|
+| [L-at-nnes/Voxpad](https://github.com/L-at-nnes/Voxpad) | [chore(release): bump version to 0.3.0](https://github.com/L-at-nnes/Voxpad/commit/83069ca51638af4c7914950c7b75d3a7df9526b1) | 2026-11-11 |
+| [L-at-nnes/Voxpad](https://github.com/L-at-nnes/Voxpad) | [fix(audio): replace nearest-sample resampling with window...](https://github.com/L-at-nnes/Voxpad/commit/08fa777ac35281d5f47e4f86a2b6828412200c53) | 2026-11-11 |
 | [L-at-nnes/khinsider-webui](https://github.com/L-at-nnes/khinsider-webui) | [docs: document search links and multi-disc albums, releas...](https://github.com/L-at-nnes/khinsider-webui/commit/41856d79b5499db39ccabaf1352aa66eac90022e) | 2026-10-31 |
 | [L-at-nnes/khinsider-webui](https://github.com/L-at-nnes/khinsider-webui) | [feat(downloader): keep the disc of every track with per-d...](https://github.com/L-at-nnes/khinsider-webui/commit/31567f5a2f731af0ae60f04345c27c2542084296) | 2026-10-31 |
 | [L-at-nnes/khinsider-webui](https://github.com/L-at-nnes/khinsider-webui) | [fix(metadata): ignore a credit label alone on its line an...](https://github.com/L-at-nnes/khinsider-webui/commit/f080d33c3602c41b2b4987716287caef7b249a05) | 2026-10-31 |
@@ -32,8 +34,6 @@
 | [L-at-nnes/khinsider-webui](https://github.com/L-at-nnes/khinsider-webui) | [feat(ui): show every harvested field in the album detail ...](https://github.com/L-at-nnes/khinsider-webui/commit/1e8fd11d358940b452c960ff3f43450bcf0c2475) | 2026-10-31 |
 | [L-at-nnes/khinsider-webui](https://github.com/L-at-nnes/khinsider-webui) | [fix(http): announce the switch to the browser only once w...](https://github.com/L-at-nnes/khinsider-webui/commit/4ef609d872751ba6b93d3c8caed5bb48a9a46e17) | 2026-10-31 |
 | [L-at-nnes/khinsider-webui](https://github.com/L-at-nnes/khinsider-webui) | [fix(downloader): record the tagged flag in the sidecar in...](https://github.com/L-at-nnes/khinsider-webui/commit/29cc794b10a8d1f46531ddbe8feb0c71cc6875f8) | 2026-10-31 |
-| [L-at-nnes/khinsider-webui](https://github.com/L-at-nnes/khinsider-webui) | [fix(scraper): read the alternate titles block, clean inli...](https://github.com/L-at-nnes/khinsider-webui/commit/3b598b96aa4620caf480a948d4e38a3ee712761e) | 2026-10-31 |
-| [L-at-nnes/khinsider-webui](https://github.com/L-at-nnes/khinsider-webui) | [chore(deps): add playwright for browser page access](https://github.com/L-at-nnes/khinsider-webui/commit/895b177187e8107d7d0131639fd21c1aeae3b578) | 2026-10-31 |
 
 </div>
 <!-- recent_commits ends -->

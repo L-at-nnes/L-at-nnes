@@ -24,16 +24,16 @@
 
 | Repo | Commit | Date |
 |---|---|---|
+| [L-at-nnes/qobuzdlx.web](https://github.com/L-at-nnes/qobuzdlx.web) | [fix(job): leave out an album Qobuz no longer has, and ret...](https://github.com/L-at-nnes/qobuzdlx.web/commit/43e9b111e9afd11db4e5956c1cf774b8edbb033c) | 2026-11-14 |
+| [L-at-nnes/qobuzdlx.web](https://github.com/L-at-nnes/qobuzdlx.web) | [chore(lint): collapse two nested conditions now that the ...](https://github.com/L-at-nnes/qobuzdlx.web/commit/2c60e36b27c1ebd6d1e519a72bcf60615484d084) | 2026-11-13 |
+| [L-at-nnes/qobuzdlx.web](https://github.com/L-at-nnes/qobuzdlx.web) | [test(settings): pin the highest FLAC as the quality downl...](https://github.com/L-at-nnes/qobuzdlx.web/commit/9ef20bbdd929a2b5df27f9277f8a79b89b880d26) | 2026-11-12 |
+| [L-at-nnes/qobuzdlx.web](https://github.com/L-at-nnes/qobuzdlx.web) | [docs(readme): tell what the queue does when Qobuz cannot ...](https://github.com/L-at-nnes/qobuzdlx.web/commit/3aacc8c8c888cf32021b1c99600ef5510aade1fb) | 2026-11-12 |
+| [L-at-nnes/qobuzdlx.web](https://github.com/L-at-nnes/qobuzdlx.web) | [chore(cargo): point the package at its GitHub repository ...](https://github.com/L-at-nnes/qobuzdlx.web/commit/020f635d262ffa0ca6ee43229b5bf019baf6ee13) | 2026-11-12 |
+| [L-at-nnes/qobuzdlx.web](https://github.com/L-at-nnes/qobuzdlx.web) | [chore(ci): run the checks of the interface and of the ser...](https://github.com/L-at-nnes/qobuzdlx.web/commit/6b9100949a38d2175a2d57f28359298f707a28b9) | 2026-11-12 |
+| [L-at-nnes/qobuzdlx.web](https://github.com/L-at-nnes/qobuzdlx.web) | [chore(lint): clear the clippy warnings and allow assert o...](https://github.com/L-at-nnes/qobuzdlx.web/commit/5ffca6b4ade0bb3a069f56631e402850d66e0a76) | 2026-11-12 |
+| [L-at-nnes/qobuzdlx.web](https://github.com/L-at-nnes/qobuzdlx.web) | [fix(qobuz): read a null in an answer as a field left out ...](https://github.com/L-at-nnes/qobuzdlx.web/commit/cf1af0a53639e2f876da6e998dea0168184842cd) | 2026-11-12 |
 | [L-at-nnes/Voxpad](https://github.com/L-at-nnes/Voxpad) | [chore(release): bump version to 0.3.0](https://github.com/L-at-nnes/Voxpad/commit/83069ca51638af4c7914950c7b75d3a7df9526b1) | 2026-11-11 |
 | [L-at-nnes/Voxpad](https://github.com/L-at-nnes/Voxpad) | [fix(audio): replace nearest-sample resampling with window...](https://github.com/L-at-nnes/Voxpad/commit/08fa777ac35281d5f47e4f86a2b6828412200c53) | 2026-11-11 |
-| [L-at-nnes/khinsider-webui](https://github.com/L-at-nnes/khinsider-webui) | [docs: document search links and multi-disc albums, releas...](https://github.com/L-at-nnes/khinsider-webui/commit/41856d79b5499db39ccabaf1352aa66eac90022e) | 2026-10-31 |
-| [L-at-nnes/khinsider-webui](https://github.com/L-at-nnes/khinsider-webui) | [feat(downloader): keep the disc of every track with per-d...](https://github.com/L-at-nnes/khinsider-webui/commit/31567f5a2f731af0ae60f04345c27c2542084296) | 2026-10-31 |
-| [L-at-nnes/khinsider-webui](https://github.com/L-at-nnes/khinsider-webui) | [fix(metadata): ignore a credit label alone on its line an...](https://github.com/L-at-nnes/khinsider-webui/commit/f080d33c3602c41b2b4987716287caef7b249a05) | 2026-10-31 |
-| [L-at-nnes/khinsider-webui](https://github.com/L-at-nnes/khinsider-webui) | [feat(urls): accept search result pages and name their fol...](https://github.com/L-at-nnes/khinsider-webui/commit/e4d2489a955ffad4218838c31e020536ab1dda56) | 2026-10-31 |
-| [L-at-nnes/khinsider-webui](https://github.com/L-at-nnes/khinsider-webui) | [docs: document page access, record live validation and re...](https://github.com/L-at-nnes/khinsider-webui/commit/429512abadf500bda19957c6860bc1fbda44b934) | 2026-10-31 |
-| [L-at-nnes/khinsider-webui](https://github.com/L-at-nnes/khinsider-webui) | [feat(ui): show every harvested field in the album detail ...](https://github.com/L-at-nnes/khinsider-webui/commit/1e8fd11d358940b452c960ff3f43450bcf0c2475) | 2026-10-31 |
-| [L-at-nnes/khinsider-webui](https://github.com/L-at-nnes/khinsider-webui) | [fix(http): announce the switch to the browser only once w...](https://github.com/L-at-nnes/khinsider-webui/commit/4ef609d872751ba6b93d3c8caed5bb48a9a46e17) | 2026-10-31 |
-| [L-at-nnes/khinsider-webui](https://github.com/L-at-nnes/khinsider-webui) | [fix(downloader): record the tagged flag in the sidecar in...](https://github.com/L-at-nnes/khinsider-webui/commit/29cc794b10a8d1f46531ddbe8feb0c71cc6875f8) | 2026-10-31 |
 
 </div>
 <!-- recent_commits ends -->

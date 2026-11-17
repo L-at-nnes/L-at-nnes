@@ -24,16 +24,16 @@
 
 | Repo | Commit | Date |
 |---|---|---|
-| [L-at-nnes/qobuzdlx.web](https://github.com/L-at-nnes/qobuzdlx.web) | [fix(job): leave out an album Qobuz no longer has, and ret...](https://github.com/L-at-nnes/qobuzdlx.web/commit/43e9b111e9afd11db4e5956c1cf774b8edbb033c) | 2026-11-14 |
-| [L-at-nnes/qobuzdlx.web](https://github.com/L-at-nnes/qobuzdlx.web) | [chore(lint): collapse two nested conditions now that the ...](https://github.com/L-at-nnes/qobuzdlx.web/commit/2c60e36b27c1ebd6d1e519a72bcf60615484d084) | 2026-11-13 |
-| [L-at-nnes/qobuzdlx.web](https://github.com/L-at-nnes/qobuzdlx.web) | [test(settings): pin the highest FLAC as the quality downl...](https://github.com/L-at-nnes/qobuzdlx.web/commit/9ef20bbdd929a2b5df27f9277f8a79b89b880d26) | 2026-11-12 |
-| [L-at-nnes/qobuzdlx.web](https://github.com/L-at-nnes/qobuzdlx.web) | [docs(readme): tell what the queue does when Qobuz cannot ...](https://github.com/L-at-nnes/qobuzdlx.web/commit/3aacc8c8c888cf32021b1c99600ef5510aade1fb) | 2026-11-12 |
-| [L-at-nnes/qobuzdlx.web](https://github.com/L-at-nnes/qobuzdlx.web) | [chore(cargo): point the package at its GitHub repository ...](https://github.com/L-at-nnes/qobuzdlx.web/commit/020f635d262ffa0ca6ee43229b5bf019baf6ee13) | 2026-11-12 |
-| [L-at-nnes/qobuzdlx.web](https://github.com/L-at-nnes/qobuzdlx.web) | [chore(ci): run the checks of the interface and of the ser...](https://github.com/L-at-nnes/qobuzdlx.web/commit/6b9100949a38d2175a2d57f28359298f707a28b9) | 2026-11-12 |
-| [L-at-nnes/qobuzdlx.web](https://github.com/L-at-nnes/qobuzdlx.web) | [chore(lint): clear the clippy warnings and allow assert o...](https://github.com/L-at-nnes/qobuzdlx.web/commit/5ffca6b4ade0bb3a069f56631e402850d66e0a76) | 2026-11-12 |
-| [L-at-nnes/qobuzdlx.web](https://github.com/L-at-nnes/qobuzdlx.web) | [fix(qobuz): read a null in an answer as a field left out ...](https://github.com/L-at-nnes/qobuzdlx.web/commit/cf1af0a53639e2f876da6e998dea0168184842cd) | 2026-11-12 |
-| [L-at-nnes/Voxpad](https://github.com/L-at-nnes/Voxpad) | [chore(release): bump version to 0.3.0](https://github.com/L-at-nnes/Voxpad/commit/83069ca51638af4c7914950c7b75d3a7df9526b1) | 2026-11-11 |
-| [L-at-nnes/Voxpad](https://github.com/L-at-nnes/Voxpad) | [fix(audio): replace nearest-sample resampling with window...](https://github.com/L-at-nnes/Voxpad/commit/08fa777ac35281d5f47e4f86a2b6828412200c53) | 2026-11-11 |
+| [L-at-nnes/Voxpad](https://github.com/L-at-nnes/Voxpad) | [chore(release): bump version to 0.3.2](https://github.com/L-at-nnes/Voxpad/commit/b564605d2e45c3915cdb1a640183976d3026cf4c) | 2026-11-17 |
+| [L-at-nnes/Voxpad](https://github.com/L-at-nnes/Voxpad) | [feat(tags): drag a tag onto a soundboard or use right-cli...](https://github.com/L-at-nnes/Voxpad/commit/53d4bac94f5dfa568a18fc93ae7844e1eb86a0cd) | 2026-11-17 |
+| [L-at-nnes/Voxpad](https://github.com/L-at-nnes/Voxpad) | [feat(store): add moveTag action and tag drop target state](https://github.com/L-at-nnes/Voxpad/commit/bdce27969b496b348122429066a331dcee1ff25a) | 2026-11-17 |
+| [L-at-nnes/Voxpad](https://github.com/L-at-nnes/Voxpad) | [feat(boards): add move_tag_to_board command to move a tag...](https://github.com/L-at-nnes/Voxpad/commit/2636e554cac29b48423150b65fbfaa9b24dd50af) | 2026-11-17 |
+| [L-at-nnes/Voxpad](https://github.com/L-at-nnes/Voxpad) | [chore(release): bump version to 0.3.1](https://github.com/L-at-nnes/Voxpad/commit/3341ee8179fdca866ebfda43ff6f94d831f1f7b7) | 2026-11-17 |
+| [L-at-nnes/Voxpad](https://github.com/L-at-nnes/Voxpad) | [feat(ui): show the full cover in the banner and its thumb...](https://github.com/L-at-nnes/Voxpad/commit/152a9ebba96497e36fe9f56ff249673817277d56) | 2026-11-17 |
+| [L-at-nnes/Voxpad](https://github.com/L-at-nnes/Voxpad) | [feat(covers): store a resized banner and a square thumbna...](https://github.com/L-at-nnes/Voxpad/commit/36306d4572641abd9154adb945c0e44fc9de1bab) | 2026-11-17 |
+| [L-at-nnes/Voxpad](https://github.com/L-at-nnes/Voxpad) | [fix(security): allow http asset.localhost in the csp so c...](https://github.com/L-at-nnes/Voxpad/commit/0119fbe825fb5a9016e9e66db9af8ccc5c35a8d8) | 2026-11-17 |
+| [L-at-nnes/Voxpad](https://github.com/L-at-nnes/Voxpad) | [feat(boards): drag soundboards in the left rail to reorde...](https://github.com/L-at-nnes/Voxpad/commit/5e9b177b01f99c5b47bdc1c57fbd807d1383c5b1) | 2026-11-17 |
+| [L-at-nnes/Voxpad](https://github.com/L-at-nnes/Voxpad) | [fix(store): resolve the active board's id instead of pass...](https://github.com/L-at-nnes/Voxpad/commit/49a96b2ae056aab5e6cba38bc00f86b23c75b1a3) | 2026-11-17 |
 
 </div>
 <!-- recent_commits ends -->

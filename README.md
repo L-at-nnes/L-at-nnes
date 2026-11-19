@@ -24,16 +24,16 @@
 
 | Repo | Commit | Date |
 |---|---|---|
-| [L-at-nnes/Voxpad](https://github.com/L-at-nnes/Voxpad) | [chore(release): bump version to 0.3.2](https://github.com/L-at-nnes/Voxpad/commit/b564605d2e45c3915cdb1a640183976d3026cf4c) | 2026-11-17 |
-| [L-at-nnes/Voxpad](https://github.com/L-at-nnes/Voxpad) | [feat(tags): drag a tag onto a soundboard or use right-cli...](https://github.com/L-at-nnes/Voxpad/commit/53d4bac94f5dfa568a18fc93ae7844e1eb86a0cd) | 2026-11-17 |
-| [L-at-nnes/Voxpad](https://github.com/L-at-nnes/Voxpad) | [feat(store): add moveTag action and tag drop target state](https://github.com/L-at-nnes/Voxpad/commit/bdce27969b496b348122429066a331dcee1ff25a) | 2026-11-17 |
-| [L-at-nnes/Voxpad](https://github.com/L-at-nnes/Voxpad) | [feat(boards): add move_tag_to_board command to move a tag...](https://github.com/L-at-nnes/Voxpad/commit/2636e554cac29b48423150b65fbfaa9b24dd50af) | 2026-11-17 |
-| [L-at-nnes/Voxpad](https://github.com/L-at-nnes/Voxpad) | [chore(release): bump version to 0.3.1](https://github.com/L-at-nnes/Voxpad/commit/3341ee8179fdca866ebfda43ff6f94d831f1f7b7) | 2026-11-17 |
-| [L-at-nnes/Voxpad](https://github.com/L-at-nnes/Voxpad) | [feat(ui): show the full cover in the banner and its thumb...](https://github.com/L-at-nnes/Voxpad/commit/152a9ebba96497e36fe9f56ff249673817277d56) | 2026-11-17 |
-| [L-at-nnes/Voxpad](https://github.com/L-at-nnes/Voxpad) | [feat(covers): store a resized banner and a square thumbna...](https://github.com/L-at-nnes/Voxpad/commit/36306d4572641abd9154adb945c0e44fc9de1bab) | 2026-11-17 |
-| [L-at-nnes/Voxpad](https://github.com/L-at-nnes/Voxpad) | [fix(security): allow http asset.localhost in the csp so c...](https://github.com/L-at-nnes/Voxpad/commit/0119fbe825fb5a9016e9e66db9af8ccc5c35a8d8) | 2026-11-17 |
-| [L-at-nnes/Voxpad](https://github.com/L-at-nnes/Voxpad) | [feat(boards): drag soundboards in the left rail to reorde...](https://github.com/L-at-nnes/Voxpad/commit/5e9b177b01f99c5b47bdc1c57fbd807d1383c5b1) | 2026-11-17 |
-| [L-at-nnes/Voxpad](https://github.com/L-at-nnes/Voxpad) | [fix(store): resolve the active board's id instead of pass...](https://github.com/L-at-nnes/Voxpad/commit/49a96b2ae056aab5e6cba38bc00f86b23c75b1a3) | 2026-11-17 |
+| [L-at-nnes/OpenScissors](https://github.com/L-at-nnes/OpenScissors) | [chore(release): bump version to 2.0.1](https://github.com/L-at-nnes/OpenScissors/commit/252030aaac17c4b49613454f902ec8ff78ea0d56) | 2026-11-19 |
+| [L-at-nnes/OpenScissors](https://github.com/L-at-nnes/OpenScissors) | [chore(dist): fill in the sha256 of the 2.0.0 windows zip ...](https://github.com/L-at-nnes/OpenScissors/commit/f7a2c1186894fa780db59d3bf60521939763b7de) | 2026-11-19 |
+| [L-at-nnes/OpenScissors](https://github.com/L-at-nnes/OpenScissors) | [docs(dist): say that the release workflow fills in the pa...](https://github.com/L-at-nnes/OpenScissors/commit/10004a1155f54b1fee88ff7e8e9cc85bb3bd19b2) | 2026-11-19 |
+| [L-at-nnes/OpenScissors](https://github.com/L-at-nnes/OpenScissors) | [fix(release): build the appimage and the macos app from t...](https://github.com/L-at-nnes/OpenScissors/commit/1e17768410353f60995990c83c158cdf26c24654) | 2026-11-19 |
+| [L-at-nnes/OpenScissors](https://github.com/L-at-nnes/OpenScissors) | [feat(release): update the scoop and winget manifests afte...](https://github.com/L-at-nnes/OpenScissors/commit/7c57a52f09ed4e1128ec36d35c80647291399cba) | 2026-11-19 |
+| [L-at-nnes/OpenScissors](https://github.com/L-at-nnes/OpenScissors) | [feat(dist): write a release's version, address and sha256...](https://github.com/L-at-nnes/OpenScissors/commit/3e11e13a3e8771d5d5c220076cb205e57bc88092) | 2026-11-19 |
+| [L-at-nnes/OpenScissors](https://github.com/L-at-nnes/OpenScissors) | [update video](https://github.com/L-at-nnes/OpenScissors/commit/2af03430613184389114c0671d474a27e40d8913) | 2026-11-19 |
+| [L-at-nnes/OpenScissors](https://github.com/L-at-nnes/OpenScissors) | [fix(build): link the clang runtime on macos for the core ...](https://github.com/L-at-nnes/OpenScissors/commit/16284659b29f405cf7ba57e87e805dd04c0d1b64) | 2026-11-19 |
+| [L-at-nnes/OpenScissors](https://github.com/L-at-nnes/OpenScissors) | [fix(gpu): build on a platform that has no graphics card p...](https://github.com/L-at-nnes/OpenScissors/commit/dc4de8acf6ea696b98866cc8e63461a4249f6d7e) | 2026-11-19 |
+| [L-at-nnes/OpenScissors](https://github.com/L-at-nnes/OpenScissors) | [feat(models): add u2net lite and is-net anime, downloaded...](https://github.com/L-at-nnes/OpenScissors/commit/4ab8c1f923dfbd24eb3baefaf4f756278286b0ea) | 2026-11-19 |
 
 </div>
 <!-- recent_commits ends -->

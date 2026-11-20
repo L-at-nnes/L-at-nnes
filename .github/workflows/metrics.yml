@@ -1,0 +1,45 @@
+name: Metrics
+
+on:
+  schedule:
+    - cron: "17 */3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: metrics-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: lowlighter/metrics@v3.34
+        with:
+          token: ${{ secrets.GH_PAT }}
+          output_action: none
+          user: L-at-nnes
+          repositories_batch: 25
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Europe/Paris
+          plugin_habits: no
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          plugin_traffic: yes
+
+      - name: Copy rendered metrics
+        run: |
+          test -s /metrics_renders/github-metrics.svg
+          cp /metrics_renders/github-metrics.svg github-metrics.svg
+
+      - name: Commit metrics
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add github-metrics.svg
+          git diff --cached --quiet || (git commit -m "chore(metrics): update github-metrics.svg" && git push)

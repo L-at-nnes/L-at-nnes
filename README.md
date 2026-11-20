@@ -17,6 +17,16 @@
 
 ---
 
+# 📈 GitHub Metrics:
+
+<div align="center">
+  <img src="github-metrics.svg" width="70%" alt="GitHub metrics" />
+</div>
+
+<br>
+
+---
+
 # Latest public commits:
 
 <!-- recent_commits starts -->

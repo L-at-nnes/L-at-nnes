@@ -34,6 +34,9 @@
 
 | Repo | Commit | Date |
 |---|---|---|
+| [L-at-nnes/OpenScissors](https://github.com/L-at-nnes/OpenScissors) | [chore(release): bump version to 2.0.3](https://github.com/L-at-nnes/OpenScissors/commit/193ab5e2fcde708e004b1276ad5cdf4f8f59ae7d) | 2026-11-20 |
+| [L-at-nnes/OpenScissors](https://github.com/L-at-nnes/OpenScissors) | [fix(ui): draw the mark being painted where the mouse is (#4)](https://github.com/L-at-nnes/OpenScissors/commit/cea0c585eb172bffe4aa745590878b2af317ad15) | 2026-11-20 |
+| [L-at-nnes/L-at-nnes](https://github.com/L-at-nnes/L-at-nnes) | [add(metrics): add github metrics workflow](https://github.com/L-at-nnes/L-at-nnes/commit/15c9bf4525c44925662cbc0f092faeed66e9b710) | 2026-11-20 |
 | [L-at-nnes/OpenScissors](https://github.com/L-at-nnes/OpenScissors) | [fix(ci): extract the portable zip with tar instead of Exp...](https://github.com/L-at-nnes/OpenScissors/commit/e2b534ac24dada4e2b4219644db25d6fd4982b8e) | 2026-11-20 |
 | [L-at-nnes/OpenScissors](https://github.com/L-at-nnes/OpenScissors) | [chore(release): bump version to 2.0.2](https://github.com/L-at-nnes/OpenScissors/commit/02cf22a344a1e5590db4c60023ce2727b221a86c) | 2026-11-20 |
 | [L-at-nnes/OpenScissors](https://github.com/L-at-nnes/OpenScissors) | [fix(ui): keep the brush outline when the mouse comes from...](https://github.com/L-at-nnes/OpenScissors/commit/38b4f945e1407c7f86b107ebc01adba756749957) | 2026-11-20 |
@@ -41,9 +44,6 @@
 | [L-at-nnes/OpenScissors](https://github.com/L-at-nnes/OpenScissors) | [chore(release): bump version to 2.0.1](https://github.com/L-at-nnes/OpenScissors/commit/252030aaac17c4b49613454f902ec8ff78ea0d56) | 2026-11-19 |
 | [L-at-nnes/OpenScissors](https://github.com/L-at-nnes/OpenScissors) | [chore(dist): fill in the sha256 of the 2.0.0 windows zip ...](https://github.com/L-at-nnes/OpenScissors/commit/f7a2c1186894fa780db59d3bf60521939763b7de) | 2026-11-19 |
 | [L-at-nnes/OpenScissors](https://github.com/L-at-nnes/OpenScissors) | [docs(dist): say that the release workflow fills in the pa...](https://github.com/L-at-nnes/OpenScissors/commit/10004a1155f54b1fee88ff7e8e9cc85bb3bd19b2) | 2026-11-19 |
-| [L-at-nnes/OpenScissors](https://github.com/L-at-nnes/OpenScissors) | [fix(release): build the appimage and the macos app from t...](https://github.com/L-at-nnes/OpenScissors/commit/1e17768410353f60995990c83c158cdf26c24654) | 2026-11-19 |
-| [L-at-nnes/OpenScissors](https://github.com/L-at-nnes/OpenScissors) | [feat(release): update the scoop and winget manifests afte...](https://github.com/L-at-nnes/OpenScissors/commit/7c57a52f09ed4e1128ec36d35c80647291399cba) | 2026-11-19 |
-| [L-at-nnes/OpenScissors](https://github.com/L-at-nnes/OpenScissors) | [feat(dist): write a release's version, address and sha256...](https://github.com/L-at-nnes/OpenScissors/commit/3e11e13a3e8771d5d5c220076cb205e57bc88092) | 2026-11-19 |
 
 </div>
 <!-- recent_commits ends -->

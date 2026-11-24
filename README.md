@@ -34,6 +34,8 @@
 
 | Repo | Commit | Date |
 |---|---|---|
+| [L-at-nnes/rutracker-traduction](https://github.com/L-at-nnes/rutracker-traduction) | [Add FMHY badge](https://github.com/L-at-nnes/rutracker-traduction/commit/2d583e74afe577bc01c4466830854e0143bc0a29) | 2026-11-24 |
+| [L-at-nnes/OpenScissors](https://github.com/L-at-nnes/OpenScissors) | [Add FMHY badge](https://github.com/L-at-nnes/OpenScissors/commit/ac1c3b438643288dbcf4b54a7f05265dd4897d84) | 2026-11-24 |
 | [L-at-nnes/OpenScissors](https://github.com/L-at-nnes/OpenScissors) | [chore(release): bump version to 2.0.3](https://github.com/L-at-nnes/OpenScissors/commit/193ab5e2fcde708e004b1276ad5cdf4f8f59ae7d) | 2026-11-20 |
 | [L-at-nnes/OpenScissors](https://github.com/L-at-nnes/OpenScissors) | [fix(ui): draw the mark being painted where the mouse is (#4)](https://github.com/L-at-nnes/OpenScissors/commit/cea0c585eb172bffe4aa745590878b2af317ad15) | 2026-11-20 |
 | [L-at-nnes/L-at-nnes](https://github.com/L-at-nnes/L-at-nnes) | [add(metrics): add github metrics workflow](https://github.com/L-at-nnes/L-at-nnes/commit/15c9bf4525c44925662cbc0f092faeed66e9b710) | 2026-11-20 |
@@ -42,8 +44,6 @@
 | [L-at-nnes/OpenScissors](https://github.com/L-at-nnes/OpenScissors) | [fix(ui): keep the brush outline when the mouse comes from...](https://github.com/L-at-nnes/OpenScissors/commit/38b4f945e1407c7f86b107ebc01adba756749957) | 2026-11-20 |
 | [L-at-nnes/OpenScissors](https://github.com/L-at-nnes/OpenScissors) | [fix(ui): follow the mouse with no button pressed so the b...](https://github.com/L-at-nnes/OpenScissors/commit/4d7e2d2431329d924ace7e31a2e85c343d802381) | 2026-11-20 |
 | [L-at-nnes/OpenScissors](https://github.com/L-at-nnes/OpenScissors) | [chore(release): bump version to 2.0.1](https://github.com/L-at-nnes/OpenScissors/commit/252030aaac17c4b49613454f902ec8ff78ea0d56) | 2026-11-19 |
-| [L-at-nnes/OpenScissors](https://github.com/L-at-nnes/OpenScissors) | [chore(dist): fill in the sha256 of the 2.0.0 windows zip ...](https://github.com/L-at-nnes/OpenScissors/commit/f7a2c1186894fa780db59d3bf60521939763b7de) | 2026-11-19 |
-| [L-at-nnes/OpenScissors](https://github.com/L-at-nnes/OpenScissors) | [docs(dist): say that the release workflow fills in the pa...](https://github.com/L-at-nnes/OpenScissors/commit/10004a1155f54b1fee88ff7e8e9cc85bb3bd19b2) | 2026-11-19 |
 
 </div>
 <!-- recent_commits ends -->

@@ -34,16 +34,16 @@
 
 | Repo | Commit | Date |
 |---|---|---|
+| [L-at-nnes/qobuzdlx.web](https://github.com/L-at-nnes/qobuzdlx.web) | [chore(release): set the version to 1.0.1](https://github.com/L-at-nnes/qobuzdlx.web/commit/1fc14adea9bd1ac9e79434c898d3eb384ebd78de) | 2026-11-25 |
+| [L-at-nnes/qobuzdlx.web](https://github.com/L-at-nnes/qobuzdlx.web) | [feat(web): add a favicon.ico, PNG icons and an apple-touc...](https://github.com/L-at-nnes/qobuzdlx.web/commit/cba7e52e30b418d77d4a77fe88886aa1a3231e50) | 2026-11-25 |
+| [L-at-nnes/qobuzdlx.web](https://github.com/L-at-nnes/qobuzdlx.web) | [chore(ci): build the image once per version tag, with lat...](https://github.com/L-at-nnes/qobuzdlx.web/commit/887a69c0793c1efe7beb15a897717f6d5533b0c6) | 2026-11-25 |
+| [L-at-nnes/qobuzdlx.web](https://github.com/L-at-nnes/qobuzdlx.web) | [chore(release): set the version to 1.0.0](https://github.com/L-at-nnes/qobuzdlx.web/commit/15534884565c78ae6831529a745ebd0da9ee20d4) | 2026-11-25 |
+| [L-at-nnes/qobuzdlx.web](https://github.com/L-at-nnes/qobuzdlx.web) | [docs(readme): tell what the queue does when the subscript...](https://github.com/L-at-nnes/qobuzdlx.web/commit/89922722e405cada07c442af16dcd92b9ad6b36d) | 2026-11-25 |
+| [L-at-nnes/qobuzdlx.web](https://github.com/L-at-nnes/qobuzdlx.web) | [feat(download): stop the queue when Qobuz refuses the net...](https://github.com/L-at-nnes/qobuzdlx.web/commit/7e2f10e3f75449bd9d30dfcd6d621f908db21cd5) | 2026-11-25 |
+| [L-at-nnes/qobuzdlx.web](https://github.com/L-at-nnes/qobuzdlx.web) | [feat(download): ask Qobuz for the subscription at each lo...](https://github.com/L-at-nnes/qobuzdlx.web/commit/1c694b82efd5d74cc8fd029f0bfd5184f99bd4d2) | 2026-11-24 |
+| [L-at-nnes/qobuzdlx.web](https://github.com/L-at-nnes/qobuzdlx.web) | [feat(download): stop the queue after three refused tracks...](https://github.com/L-at-nnes/qobuzdlx.web/commit/b7d24e54e347a17497556c06ea56a585d2d57411) | 2026-11-24 |
 | [L-at-nnes/rutracker-traduction](https://github.com/L-at-nnes/rutracker-traduction) | [Add FMHY badge](https://github.com/L-at-nnes/rutracker-traduction/commit/2d583e74afe577bc01c4466830854e0143bc0a29) | 2026-11-24 |
 | [L-at-nnes/OpenScissors](https://github.com/L-at-nnes/OpenScissors) | [Add FMHY badge](https://github.com/L-at-nnes/OpenScissors/commit/ac1c3b438643288dbcf4b54a7f05265dd4897d84) | 2026-11-24 |
-| [L-at-nnes/OpenScissors](https://github.com/L-at-nnes/OpenScissors) | [chore(release): bump version to 2.0.3](https://github.com/L-at-nnes/OpenScissors/commit/193ab5e2fcde708e004b1276ad5cdf4f8f59ae7d) | 2026-11-20 |
-| [L-at-nnes/OpenScissors](https://github.com/L-at-nnes/OpenScissors) | [fix(ui): draw the mark being painted where the mouse is (#4)](https://github.com/L-at-nnes/OpenScissors/commit/cea0c585eb172bffe4aa745590878b2af317ad15) | 2026-11-20 |
-| [L-at-nnes/L-at-nnes](https://github.com/L-at-nnes/L-at-nnes) | [add(metrics): add github metrics workflow](https://github.com/L-at-nnes/L-at-nnes/commit/15c9bf4525c44925662cbc0f092faeed66e9b710) | 2026-11-20 |
-| [L-at-nnes/OpenScissors](https://github.com/L-at-nnes/OpenScissors) | [fix(ci): extract the portable zip with tar instead of Exp...](https://github.com/L-at-nnes/OpenScissors/commit/e2b534ac24dada4e2b4219644db25d6fd4982b8e) | 2026-11-20 |
-| [L-at-nnes/OpenScissors](https://github.com/L-at-nnes/OpenScissors) | [chore(release): bump version to 2.0.2](https://github.com/L-at-nnes/OpenScissors/commit/02cf22a344a1e5590db4c60023ce2727b221a86c) | 2026-11-20 |
-| [L-at-nnes/OpenScissors](https://github.com/L-at-nnes/OpenScissors) | [fix(ui): keep the brush outline when the mouse comes from...](https://github.com/L-at-nnes/OpenScissors/commit/38b4f945e1407c7f86b107ebc01adba756749957) | 2026-11-20 |
-| [L-at-nnes/OpenScissors](https://github.com/L-at-nnes/OpenScissors) | [fix(ui): follow the mouse with no button pressed so the b...](https://github.com/L-at-nnes/OpenScissors/commit/4d7e2d2431329d924ace7e31a2e85c343d802381) | 2026-11-20 |
-| [L-at-nnes/OpenScissors](https://github.com/L-at-nnes/OpenScissors) | [chore(release): bump version to 2.0.1](https://github.com/L-at-nnes/OpenScissors/commit/252030aaac17c4b49613454f902ec8ff78ea0d56) | 2026-11-19 |
 
 </div>
 <!-- recent_commits ends -->

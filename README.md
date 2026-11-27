@@ -34,16 +34,16 @@
 
 | Repo | Commit | Date |
 |---|---|---|
-| [L-at-nnes/qobuzdlx.web](https://github.com/L-at-nnes/qobuzdlx.web) | [chore(release): set the version to 1.0.2](https://github.com/L-at-nnes/qobuzdlx.web/commit/e98b5fda6fb55d0fcfde3c586be80b317fb35c3b) | 2026-11-26 |
-| [L-at-nnes/qobuzdlx.web](https://github.com/L-at-nnes/qobuzdlx.web) | [docs(readme): explain the speed limit, the volume limit p...](https://github.com/L-at-nnes/qobuzdlx.web/commit/ffbd81307342de6fd0acddfafaae8d5c9c9c4c78) | 2026-11-26 |
-| [L-at-nnes/qobuzdlx.web](https://github.com/L-at-nnes/qobuzdlx.web) | [test(settings): pin the defaults of the limits for a sett...](https://github.com/L-at-nnes/qobuzdlx.web/commit/1cbae21f9152dbfd809ffc4a6ad6d2c7343bb64a) | 2026-11-26 |
-| [L-at-nnes/qobuzdlx.web](https://github.com/L-at-nnes/qobuzdlx.web) | [feat(download): add quiet hours when nothing is downloade...](https://github.com/L-at-nnes/qobuzdlx.web/commit/f7ee6888432d14f6dc94aecd33b4bd9430b1760e) | 2026-11-26 |
-| [L-at-nnes/qobuzdlx.web](https://github.com/L-at-nnes/qobuzdlx.web) | [feat(download): wait when 50 GB were written in 24 hours,...](https://github.com/L-at-nnes/qobuzdlx.web/commit/b80731740f5ed66562ddcd926a32f440cd667cd7) | 2026-11-26 |
-| [L-at-nnes/qobuzdlx.web](https://github.com/L-at-nnes/qobuzdlx.web) | [feat(download): limit the speed of the transfers together...](https://github.com/L-at-nnes/qobuzdlx.web/commit/41c862a9a069e5516a209088780523908f983f1c) | 2026-11-26 |
-| [L-at-nnes/qobuzdlx.web](https://github.com/L-at-nnes/qobuzdlx.web) | [chore(release): set the version to 1.0.1](https://github.com/L-at-nnes/qobuzdlx.web/commit/1fc14adea9bd1ac9e79434c898d3eb384ebd78de) | 2026-11-25 |
-| [L-at-nnes/qobuzdlx.web](https://github.com/L-at-nnes/qobuzdlx.web) | [feat(web): add a favicon.ico, PNG icons and an apple-touc...](https://github.com/L-at-nnes/qobuzdlx.web/commit/cba7e52e30b418d77d4a77fe88886aa1a3231e50) | 2026-11-25 |
-| [L-at-nnes/qobuzdlx.web](https://github.com/L-at-nnes/qobuzdlx.web) | [chore(ci): build the image once per version tag, with lat...](https://github.com/L-at-nnes/qobuzdlx.web/commit/887a69c0793c1efe7beb15a897717f6d5533b0c6) | 2026-11-25 |
-| [L-at-nnes/qobuzdlx.web](https://github.com/L-at-nnes/qobuzdlx.web) | [chore(release): set the version to 1.0.0](https://github.com/L-at-nnes/qobuzdlx.web/commit/15534884565c78ae6831529a745ebd0da9ee20d4) | 2026-11-25 |
+| [L-at-nnes/Voxpad](https://github.com/L-at-nnes/Voxpad) | [docs: point the ci badge and contributing links at main a...](https://github.com/L-at-nnes/Voxpad/commit/023d4036859e1d423db5d4da3d5d3c8321800bbf) | 2026-11-27 |
+| [L-at-nnes/Voxpad](https://github.com/L-at-nnes/Voxpad) | [ci(release): run the rust tests before publishing a release](https://github.com/L-at-nnes/Voxpad/commit/d18320b2ee945fa4d2e214f13c3118aa2f456175) | 2026-11-27 |
+| [L-at-nnes/Voxpad](https://github.com/L-at-nnes/Voxpad) | [ci: run the ci workflow on pushes to main instead of master](https://github.com/L-at-nnes/Voxpad/commit/d14ffceeb576dc56fed24eefcc658b61106fa53c) | 2026-11-27 |
+| [L-at-nnes/Voxpad](https://github.com/L-at-nnes/Voxpad) | [chore(release): bump version to 0.3.4](https://github.com/L-at-nnes/Voxpad/commit/3e44623ca88c26c2973e0b90a6ac1f96f5e71af4) | 2026-11-27 |
+| [L-at-nnes/Voxpad](https://github.com/L-at-nnes/Voxpad) | [docs: describe the play all toggle and refresh screenshots](https://github.com/L-at-nnes/Voxpad/commit/8eb32e360c6ee298786fe1f4306c0caed21842b4) | 2026-11-27 |
+| [L-at-nnes/Voxpad](https://github.com/L-at-nnes/Voxpad) | [feat(inspector): turn the play all button violet and into...](https://github.com/L-at-nnes/Voxpad/commit/4285e55ea42d7a3c0232ea7ec403be5934c8cb3b) | 2026-11-27 |
+| [L-at-nnes/Voxpad](https://github.com/L-at-nnes/Voxpad) | [feat(store): make play all a toggle that cuts playback an...](https://github.com/L-at-nnes/Voxpad/commit/55e6685e6a74458973058509590c53dec6a55acf) | 2026-11-27 |
+| [L-at-nnes/Voxpad](https://github.com/L-at-nnes/Voxpad) | [chore(release): bump version to 0.3.3](https://github.com/L-at-nnes/Voxpad/commit/7254d3dd6739ef29cf46f3400c81b3e24401e102) | 2026-11-27 |
+| [L-at-nnes/Voxpad](https://github.com/L-at-nnes/Voxpad) | [docs: refresh screenshots and add the play all one](https://github.com/L-at-nnes/Voxpad/commit/73080c1c23c2b0052203af074130e602aba9c844) | 2026-11-27 |
+| [L-at-nnes/Voxpad](https://github.com/L-at-nnes/Voxpad) | [docs: document play all, tag and board moves, cover thumb...](https://github.com/L-at-nnes/Voxpad/commit/4955c3547658d608acc322a8eece6d0d70fc843e) | 2026-11-27 |
 
 </div>
 <!-- recent_commits ends -->

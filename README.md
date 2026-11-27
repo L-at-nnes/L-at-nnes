@@ -34,16 +34,16 @@
 
 | Repo | Commit | Date |
 |---|---|---|
+| [L-at-nnes/qobuzdlx.web](https://github.com/L-at-nnes/qobuzdlx.web) | [chore(release): set the version to 1.0.2](https://github.com/L-at-nnes/qobuzdlx.web/commit/e98b5fda6fb55d0fcfde3c586be80b317fb35c3b) | 2026-11-26 |
+| [L-at-nnes/qobuzdlx.web](https://github.com/L-at-nnes/qobuzdlx.web) | [docs(readme): explain the speed limit, the volume limit p...](https://github.com/L-at-nnes/qobuzdlx.web/commit/ffbd81307342de6fd0acddfafaae8d5c9c9c4c78) | 2026-11-26 |
+| [L-at-nnes/qobuzdlx.web](https://github.com/L-at-nnes/qobuzdlx.web) | [test(settings): pin the defaults of the limits for a sett...](https://github.com/L-at-nnes/qobuzdlx.web/commit/1cbae21f9152dbfd809ffc4a6ad6d2c7343bb64a) | 2026-11-26 |
+| [L-at-nnes/qobuzdlx.web](https://github.com/L-at-nnes/qobuzdlx.web) | [feat(download): add quiet hours when nothing is downloade...](https://github.com/L-at-nnes/qobuzdlx.web/commit/f7ee6888432d14f6dc94aecd33b4bd9430b1760e) | 2026-11-26 |
+| [L-at-nnes/qobuzdlx.web](https://github.com/L-at-nnes/qobuzdlx.web) | [feat(download): wait when 50 GB were written in 24 hours,...](https://github.com/L-at-nnes/qobuzdlx.web/commit/b80731740f5ed66562ddcd926a32f440cd667cd7) | 2026-11-26 |
+| [L-at-nnes/qobuzdlx.web](https://github.com/L-at-nnes/qobuzdlx.web) | [feat(download): limit the speed of the transfers together...](https://github.com/L-at-nnes/qobuzdlx.web/commit/41c862a9a069e5516a209088780523908f983f1c) | 2026-11-26 |
 | [L-at-nnes/qobuzdlx.web](https://github.com/L-at-nnes/qobuzdlx.web) | [chore(release): set the version to 1.0.1](https://github.com/L-at-nnes/qobuzdlx.web/commit/1fc14adea9bd1ac9e79434c898d3eb384ebd78de) | 2026-11-25 |
 | [L-at-nnes/qobuzdlx.web](https://github.com/L-at-nnes/qobuzdlx.web) | [feat(web): add a favicon.ico, PNG icons and an apple-touc...](https://github.com/L-at-nnes/qobuzdlx.web/commit/cba7e52e30b418d77d4a77fe88886aa1a3231e50) | 2026-11-25 |
 | [L-at-nnes/qobuzdlx.web](https://github.com/L-at-nnes/qobuzdlx.web) | [chore(ci): build the image once per version tag, with lat...](https://github.com/L-at-nnes/qobuzdlx.web/commit/887a69c0793c1efe7beb15a897717f6d5533b0c6) | 2026-11-25 |
 | [L-at-nnes/qobuzdlx.web](https://github.com/L-at-nnes/qobuzdlx.web) | [chore(release): set the version to 1.0.0](https://github.com/L-at-nnes/qobuzdlx.web/commit/15534884565c78ae6831529a745ebd0da9ee20d4) | 2026-11-25 |
-| [L-at-nnes/qobuzdlx.web](https://github.com/L-at-nnes/qobuzdlx.web) | [docs(readme): tell what the queue does when the subscript...](https://github.com/L-at-nnes/qobuzdlx.web/commit/89922722e405cada07c442af16dcd92b9ad6b36d) | 2026-11-25 |
-| [L-at-nnes/qobuzdlx.web](https://github.com/L-at-nnes/qobuzdlx.web) | [feat(download): stop the queue when Qobuz refuses the net...](https://github.com/L-at-nnes/qobuzdlx.web/commit/7e2f10e3f75449bd9d30dfcd6d621f908db21cd5) | 2026-11-25 |
-| [L-at-nnes/qobuzdlx.web](https://github.com/L-at-nnes/qobuzdlx.web) | [feat(download): ask Qobuz for the subscription at each lo...](https://github.com/L-at-nnes/qobuzdlx.web/commit/1c694b82efd5d74cc8fd029f0bfd5184f99bd4d2) | 2026-11-24 |
-| [L-at-nnes/qobuzdlx.web](https://github.com/L-at-nnes/qobuzdlx.web) | [feat(download): stop the queue after three refused tracks...](https://github.com/L-at-nnes/qobuzdlx.web/commit/b7d24e54e347a17497556c06ea56a585d2d57411) | 2026-11-24 |
-| [L-at-nnes/rutracker-traduction](https://github.com/L-at-nnes/rutracker-traduction) | [Add FMHY badge](https://github.com/L-at-nnes/rutracker-traduction/commit/2d583e74afe577bc01c4466830854e0143bc0a29) | 2026-11-24 |
-| [L-at-nnes/OpenScissors](https://github.com/L-at-nnes/OpenScissors) | [Add FMHY badge](https://github.com/L-at-nnes/OpenScissors/commit/ac1c3b438643288dbcf4b54a7f05265dd4897d84) | 2026-11-24 |
 
 </div>
 <!-- recent_commits ends -->
